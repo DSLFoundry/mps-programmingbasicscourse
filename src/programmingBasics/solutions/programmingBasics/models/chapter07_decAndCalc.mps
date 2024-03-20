@@ -48,7 +48,7 @@
         <reference id="4214990435115877180" name="col" index="UJIh4" />
       </concept>
       <concept id="4214990435115877135" name="org.iets3.core.expr.util.structure.DecTabExpression" flags="ng" index="UJIhR">
-        <child id="4214990435115877136" name="expr" index="UJIhC" />
+        <child id="4214990435115877136" name="expressions" index="UJIhC" />
       </concept>
       <concept id="1690305638831010255" name="org.iets3.core.expr.util.structure.LessThanRS" flags="ng" index="3bapRa" />
       <concept id="1690305638831010257" name="org.iets3.core.expr.util.structure.MoreThanRS" flags="ng" index="3bapRk" />
@@ -167,7 +167,7 @@
         <child id="1665826838186398926" name="contents" index="3$tU1w" />
       </concept>
       <concept id="1665826838186423585" name="org.iets3.core.expr.doc.structure.ScreenshotPathSpec" flags="ng" index="3$tW6f">
-        <child id="2014366269320980352" name="pp" index="h$T3N" />
+        <child id="2014366269320980352" name="path" index="h$T3N" />
       </concept>
     </language>
     <language id="d441fba0-f46b-43cd-b723-dad7b65da615" name="org.iets3.core.expr.tests">

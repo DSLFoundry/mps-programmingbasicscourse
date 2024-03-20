@@ -18,9 +18,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5474529e-c961-46f1-bc63-0693056b6dfc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/migration.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter01_values.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter01_values.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter02_testing.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter02_testing.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter03_types.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter03_types.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter04_functions.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter04_functions.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter05_structured.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter05_structured.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter06_collections.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter06_collections.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter07_decAndCalc.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter07_decAndCalc.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter08_instantiation.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter08_instantiation.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter09_timeAndState.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/chapter09_timeAndState.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises02.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises02.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises04.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises04.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises05.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises05.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises06.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises06.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises07.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises07.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises08.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises08.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/programmingBasics.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/programmingBasics.msd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +55,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="61985537-b3d7-4d56-b127-38dc23c08ca0/r:b79f1344-4ccd-4d8b-979d-1db604ed7736(TempModule61985537-b3d7-4d56-b127-38dc23c08ca0/ConsoleModel_2775107604466)">
+            <model ref="c8c3d7cf-ccce-419d-9f94-804684a7c19f/r:fbe126cf-51b9-4a5e-961b-c3ab121ba4a3(TempModulec8c3d7cf-ccce-419d-9f94-804684a7c19f/ConsoleModel_2951192438691)">
               <persistence version="9" />
               <languages>
                 <use id="1a8554c4-eb84-43ba-8c34-6f0d90c6e75a" name="jetbrains.mps.lang.smodel.query" version="3" />
@@ -179,142 +192,142 @@
                   <concept id="4307205004134636962" name="jetbrains.mps.console.base.structure.ProjectScope_old" flags="ng" index="1dZ9A3" />
                 </language>
               </registry>
-              <node concept="aymSD" id="31h3mvQlz2W">
-                <node concept="3balQm" id="31h3mvQlz2X" role="aymYE">
-                  <node concept="2Clz$F" id="31h3mvQlz2Y" role="18xWvz">
+              <node concept="aymSD" id="2rCZDddErq2">
+                <node concept="3balQm" id="2rCZDddErq3" role="aymYE">
+                  <node concept="2Clz$F" id="2rCZDddErq4" role="18xWvz">
                     <property role="TrG5h" value="CommandHolder" />
-                    <node concept="f80E0" id="31h3mvQlz2Z" role="2Clzx4">
-                      <node concept="2OqwBi" id="31h3mvQlz30" role="f80$r">
-                        <node concept="2OqwBi" id="31h3mvQlz31" role="2Oq$k0">
-                          <node concept="qVDSY" id="31h3mvQlz32" role="2Oq$k0">
-                            <node concept="1dO9Bo" id="31h3mvQlz33" role="1dOa5D">
-                              <node concept="1dRE$e" id="31h3mvQlz34" role="1dp2q7">
-                                <node concept="1dZ9A3" id="31h3mvQlz35" role="1dZqIC" />
+                    <node concept="f80E0" id="2rCZDddErq5" role="2Clzx4">
+                      <node concept="2OqwBi" id="2rCZDddErq6" role="f80$r">
+                        <node concept="2OqwBi" id="2rCZDddErq7" role="2Oq$k0">
+                          <node concept="qVDSY" id="2rCZDddErq8" role="2Oq$k0">
+                            <node concept="1dO9Bo" id="2rCZDddErq9" role="1dOa5D">
+                              <node concept="1dRE$e" id="2rCZDddErqa" role="1dp2q7">
+                                <node concept="1dZ9A3" id="2rCZDddErqb" role="1dZqIC" />
                               </node>
                             </node>
-                            <node concept="chp4Y" id="31h3mvQlz36" role="qVDSX">
+                            <node concept="chp4Y" id="2rCZDddErqc" role="qVDSX">
                               <ref role="cht4Q" to="34lm:1sudaVNqvkx" resolve="ScreenshotPathSpec" />
                             </node>
                           </node>
-                          <node concept="3zZkjj" id="31h3mvQlz37" role="2OqNvi">
-                            <node concept="1bVj0M" id="31h3mvQlz38" role="23t8la">
+                          <node concept="3zZkjj" id="2rCZDddErqd" role="2OqNvi">
+                            <node concept="1bVj0M" id="2rCZDddErqe" role="23t8la">
                               <property role="3yWfEV" value="true" />
-                              <node concept="3clFbS" id="31h3mvQlz39" role="1bW5cS">
-                                <node concept="3clFbF" id="31h3mvQlz3a" role="3cqZAp">
-                                  <node concept="3clFbT" id="31h3mvQlz3b" role="3clFbG">
+                              <node concept="3clFbS" id="2rCZDddErqf" role="1bW5cS">
+                                <node concept="3clFbF" id="2rCZDddErqg" role="3cqZAp">
+                                  <node concept="3clFbT" id="2rCZDddErqh" role="3clFbG">
                                     <property role="3clFbU" value="true" />
                                   </node>
                                 </node>
                               </node>
-                              <node concept="Rh6nW" id="31h3mvQlz3c" role="1bW2Oz">
+                              <node concept="Rh6nW" id="2rCZDddErqi" role="1bW2Oz">
                                 <property role="TrG5h" value="node" />
-                                <node concept="2jxLKc" id="31h3mvQlz3d" role="1tU5fm" />
+                                <node concept="2jxLKc" id="2rCZDddErqj" role="1tU5fm" />
                               </node>
                             </node>
                           </node>
                         </node>
-                        <node concept="3R8V_t" id="31h3mvQlz3e" role="2OqNvi">
-                          <node concept="1bVj0M" id="31h3mvQlz3f" role="23t8la">
+                        <node concept="3R8V_t" id="2rCZDddErqk" role="2OqNvi">
+                          <node concept="1bVj0M" id="2rCZDddErql" role="23t8la">
                             <property role="3yWfEV" value="true" />
-                            <node concept="3clFbS" id="31h3mvQlz3g" role="1bW5cS">
-                              <node concept="3cpWs8" id="31h3mvQlz3h" role="3cqZAp">
-                                <node concept="3cpWsn" id="31h3mvQlz3i" role="3cpWs9">
+                            <node concept="3clFbS" id="2rCZDddErqm" role="1bW5cS">
+                              <node concept="3cpWs8" id="2rCZDddErqn" role="3cqZAp">
+                                <node concept="3cpWsn" id="2rCZDddErqo" role="3cpWs9">
                                   <property role="TrG5h" value="pp" />
-                                  <node concept="3Tqbb2" id="31h3mvQlz3j" role="1tU5fm">
+                                  <node concept="3Tqbb2" id="2rCZDddErqp" role="1tU5fm">
                                     <ref role="ehGHo" to="68mc:2iGZqsHuOWj" resolve="SolutionRelativeDirPicker" />
                                   </node>
-                                  <node concept="2OqwBi" id="31h3mvQlz3k" role="33vP2m">
-                                    <node concept="2OqwBi" id="31h3mvQlz3l" role="2Oq$k0">
-                                      <node concept="37vLTw" id="31h3mvQlz3m" role="2Oq$k0">
-                                        <ref role="3cqZAo" node="31h3mvQlz3_" resolve="node" />
+                                  <node concept="2OqwBi" id="2rCZDddErqq" role="33vP2m">
+                                    <node concept="2OqwBi" id="2rCZDddErqr" role="2Oq$k0">
+                                      <node concept="37vLTw" id="2rCZDddErqs" role="2Oq$k0">
+                                        <ref role="3cqZAo" node="2rCZDddErqF" resolve="node" />
                                       </node>
-                                      <node concept="3TrEf2" id="31h3mvQlz3n" role="2OqNvi">
+                                      <node concept="3TrEf2" id="2rCZDddErqt" role="2OqNvi">
                                         <ref role="3Tt5mk" to="34lm:1JOtRcapYu0" resolve="path" />
                                       </node>
                                     </node>
-                                    <node concept="zfrQC" id="31h3mvQlz3o" role="2OqNvi" />
+                                    <node concept="zfrQC" id="2rCZDddErqu" role="2OqNvi" />
                                   </node>
                                 </node>
                               </node>
-                              <node concept="3clFbF" id="31h3mvQlz3p" role="3cqZAp">
-                                <node concept="37vLTI" id="31h3mvQlz3q" role="3clFbG">
-                                  <node concept="Xl_RD" id="31h3mvQlz3r" role="37vLTx">
+                              <node concept="3clFbF" id="2rCZDddErqv" role="3cqZAp">
+                                <node concept="37vLTI" id="2rCZDddErqw" role="3clFbG">
+                                  <node concept="Xl_RD" id="2rCZDddErqx" role="37vLTx">
                                     <property role="Xl_RC" value="../../../../doc" />
                                   </node>
-                                  <node concept="2OqwBi" id="31h3mvQlz3s" role="37vLTJ">
-                                    <node concept="37vLTw" id="31h3mvQlz3t" role="2Oq$k0">
-                                      <ref role="3cqZAo" node="31h3mvQlz3i" resolve="pp" />
+                                  <node concept="2OqwBi" id="2rCZDddErqy" role="37vLTJ">
+                                    <node concept="37vLTw" id="2rCZDddErqz" role="2Oq$k0">
+                                      <ref role="3cqZAo" node="2rCZDddErqo" resolve="pp" />
                                     </node>
-                                    <node concept="3TrcHB" id="31h3mvQlz3u" role="2OqNvi">
+                                    <node concept="3TrcHB" id="2rCZDddErq$" role="2OqNvi">
                                       <ref role="3TsBF5" to="68mc:5lKnBeAtODI" resolve="path" />
                                     </node>
                                   </node>
                                 </node>
                               </node>
-                              <node concept="3clFbF" id="31h3mvQlz3v" role="3cqZAp">
-                                <node concept="37vLTI" id="31h3mvQlz3w" role="3clFbG">
-                                  <node concept="10Nm6u" id="31h3mvQlz3x" role="37vLTx" />
-                                  <node concept="2OqwBi" id="31h3mvQlz3y" role="37vLTJ">
-                                    <node concept="37vLTw" id="31h3mvQlz3z" role="2Oq$k0">
-                                      <ref role="3cqZAo" node="31h3mvQlz3_" resolve="node" />
+                              <node concept="3clFbF" id="2rCZDddErq_" role="3cqZAp">
+                                <node concept="37vLTI" id="2rCZDddErqA" role="3clFbG">
+                                  <node concept="10Nm6u" id="2rCZDddErqB" role="37vLTx" />
+                                  <node concept="2OqwBi" id="2rCZDddErqC" role="37vLTJ">
+                                    <node concept="37vLTw" id="2rCZDddErqD" role="2Oq$k0">
+                                      <ref role="3cqZAo" node="2rCZDddErqF" resolve="node" />
                                     </node>
-                                    <node concept="3TrcHB" id="31h3mvQlz3$" role="2OqNvi">
+                                    <node concept="3TrcHB" id="2rCZDddErqE" role="2OqNvi">
                                       <ref role="3TsBF5" to="34lm:1sudaVNqvlc" resolve="path" />
                                     </node>
                                   </node>
                                 </node>
                               </node>
                             </node>
-                            <node concept="Rh6nW" id="31h3mvQlz3_" role="1bW2Oz">
+                            <node concept="Rh6nW" id="2rCZDddErqF" role="1bW2Oz">
                               <property role="TrG5h" value="node" />
-                              <node concept="2jxLKc" id="31h3mvQlz3A" role="1tU5fm" />
+                              <node concept="2jxLKc" id="2rCZDddErqG" role="1tU5fm" />
                             </node>
                           </node>
                         </node>
                       </node>
                     </node>
                   </node>
-                  <node concept="2Clz$F" id="31h3mvQlz3B" role="18xWvz">
+                  <node concept="2Clz$F" id="2rCZDddErqH" role="18xWvz">
                     <property role="TrG5h" value="CommandHolder" />
-                    <node concept="f80E0" id="31h3mvQlz3C" role="2Clzx4">
-                      <node concept="24aHrZ" id="31h3mvQlz3D" role="f80$r">
-                        <node concept="2OqwBi" id="31h3mvQlz3E" role="iY1wd">
-                          <node concept="qVDSY" id="31h3mvQlz3F" role="2Oq$k0">
-                            <node concept="chp4Y" id="31h3mvQlz3G" role="qVDSX">
+                    <node concept="f80E0" id="2rCZDddErqI" role="2Clzx4">
+                      <node concept="24aHrZ" id="2rCZDddErqJ" role="f80$r">
+                        <node concept="2OqwBi" id="2rCZDddErqK" role="iY1wd">
+                          <node concept="qVDSY" id="2rCZDddErqL" role="2Oq$k0">
+                            <node concept="chp4Y" id="2rCZDddErqM" role="qVDSX">
                               <ref role="cht4Q" to="34lm:1sudaVNmXYu" resolve="Frame" />
                             </node>
-                            <node concept="1dO9Bo" id="31h3mvQlz3H" role="1dOa5D">
-                              <node concept="psT0o" id="31h3mvQlz3I" role="1dp2q7">
-                                <node concept="p4YG9" id="31h3mvQlz3J" role="psT0v" />
+                            <node concept="1dO9Bo" id="2rCZDddErqN" role="1dOa5D">
+                              <node concept="psT0o" id="2rCZDddErqO" role="1dp2q7">
+                                <node concept="p4YG9" id="2rCZDddErqP" role="psT0v" />
                               </node>
                             </node>
                           </node>
-                          <node concept="3zZkjj" id="31h3mvQlz3K" role="2OqNvi">
-                            <node concept="1bVj0M" id="31h3mvQlz3L" role="23t8la">
+                          <node concept="3zZkjj" id="2rCZDddErqQ" role="2OqNvi">
+                            <node concept="1bVj0M" id="2rCZDddErqR" role="23t8la">
                               <property role="3yWfEV" value="true" />
-                              <node concept="3clFbS" id="31h3mvQlz3M" role="1bW5cS">
-                                <node concept="3clFbF" id="31h3mvQlz3N" role="3cqZAp">
-                                  <node concept="2OqwBi" id="31h3mvQlz3O" role="3clFbG">
-                                    <node concept="2OqwBi" id="31h3mvQlz3P" role="2Oq$k0">
-                                      <node concept="37vLTw" id="31h3mvQlz3Q" role="2Oq$k0">
-                                        <ref role="3cqZAo" node="31h3mvQlz3U" resolve="node" />
+                              <node concept="3clFbS" id="2rCZDddErqS" role="1bW5cS">
+                                <node concept="3clFbF" id="2rCZDddErqT" role="3cqZAp">
+                                  <node concept="2OqwBi" id="2rCZDddErqU" role="3clFbG">
+                                    <node concept="2OqwBi" id="2rCZDddErqV" role="2Oq$k0">
+                                      <node concept="37vLTw" id="2rCZDddErqW" role="2Oq$k0">
+                                        <ref role="3cqZAo" node="2rCZDddErr0" resolve="node" />
                                       </node>
-                                      <node concept="3TrcHB" id="31h3mvQlz3R" role="2OqNvi">
+                                      <node concept="3TrcHB" id="2rCZDddErqX" role="2OqNvi">
                                         <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
                                       </node>
                                     </node>
-                                    <node concept="liA8E" id="31h3mvQlz3S" role="2OqNvi">
+                                    <node concept="liA8E" id="2rCZDddErqY" role="2OqNvi">
                                       <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                      <node concept="Xl_RD" id="31h3mvQlz3T" role="37wK5m">
+                                      <node concept="Xl_RD" id="2rCZDddErqZ" role="37wK5m">
                                         <property role="Xl_RC" value="riskFactorForperson" />
                                       </node>
                                     </node>
                                   </node>
                                 </node>
                               </node>
-                              <node concept="Rh6nW" id="31h3mvQlz3U" role="1bW2Oz">
+                              <node concept="Rh6nW" id="2rCZDddErr0" role="1bW2Oz">
                                 <property role="TrG5h" value="node" />
-                                <node concept="2jxLKc" id="31h3mvQlz3V" role="1tU5fm" />
+                                <node concept="2jxLKc" id="2rCZDddErr1" role="1tU5fm" />
                               </node>
                             </node>
                           </node>
@@ -323,9 +336,9 @@
                     </node>
                   </node>
                 </node>
-                <node concept="2Clz$F" id="31h3mvQlAac" role="aymYO" />
-                <node concept="2_V_lH" id="31h3mvQlAad" role="1PhJh3">
-                  <ref role="2_V_lI" node="31h3mvQlAac" resolve="CommandHolder" />
+                <node concept="2Clz$F" id="2rCZDddEuxl" role="aymYO" />
+                <node concept="2_V_lH" id="2rCZDddEuxm" role="1PhJh3">
+                  <ref role="2_V_lI" node="2rCZDddEuxl" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -726,6 +739,11 @@
           <PluginState />
         </value>
       </option>
+      <option name="jetbrains.mps.lang.editor.tooltips.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="jetbrains.mps.vcs.mergehints.plugin.plugin.Plugin_ProjectPlugin">
         <value>
           <PluginState />
@@ -755,35 +773,8 @@
     <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1" />
+    <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="FileSystem" />
-      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AddingToLists" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <SELECTED>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AddingToLists" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer#bookmarkNode#AddAndRemove" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </SELECTED>
-        </subPane>
-      </pane>
-      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
-        <subPane />
-      </pane>
-      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -792,7 +783,21 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -820,21 +825,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -855,6 +846,33 @@
             </PATH_ELEMENT>
           </SELECTED>
         </subPane>
+      </pane>
+      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AddingToLists" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <SELECTED>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AddingToLists" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer#bookmarkNode#AddAndRemove" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </SELECTED>
+        </subPane>
+      </pane>
+      <pane id="FileSystem" />
+      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
+        <subPane />
       </pane>
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
         <subPane />
@@ -887,10 +905,10 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.mbeddr.mpsutil.multilingual.concept.runtime.plugin.MultilingualConceptProjectPlugin_CustomProjectPlugin.showTranslations" value="false" />
@@ -1001,13 +1019,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -1022,21 +1039,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="improved sheet tests" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2560" y="292" width="874" height="498" key="#jetbrains.mps.ide.migration.MigrationAssistantWizard" timestamp="1710963970097">
+    <state x="2560" y="292" width="874" height="498" key="#jetbrains.mps.ide.migration.MigrationAssistantWizard" timestamp="1710964145981">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2560" y="292" width="874" height="498" key="#jetbrains.mps.ide.migration.MigrationAssistantWizard/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710963970097" />
-    <state x="2594" y="450" width="571" height="182" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog" timestamp="1710963977185">
+    <state x="2560" y="292" width="874" height="498" key="#jetbrains.mps.ide.migration.MigrationAssistantWizard/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710964145981" />
+    <state x="2594" y="450" width="571" height="189" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog" timestamp="1710964137506">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2594" y="450" width="571" height="182" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710963977185" />
+    <state x="2594" y="450" width="571" height="189" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710964137506" />
     <state x="2474" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1710963972326">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2474" y="329" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710963972326" />
-    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1710964019319">
+    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1710964191622">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710964019319" />
+    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710964191622" />
   </component>
 </project>

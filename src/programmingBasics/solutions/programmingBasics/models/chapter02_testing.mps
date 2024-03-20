@@ -46,7 +46,7 @@
         <child id="1665826838186398926" name="contents" index="3$tU1w" />
       </concept>
       <concept id="1665826838186423585" name="org.iets3.core.expr.doc.structure.ScreenshotPathSpec" flags="ng" index="3$tW6f">
-        <child id="2014366269320980352" name="pp" index="h$T3N" />
+        <child id="2014366269320980352" name="path" index="h$T3N" />
       </concept>
     </language>
     <language id="d441fba0-f46b-43cd-b723-dad7b65da615" name="org.iets3.core.expr.tests">
