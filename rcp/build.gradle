@@ -12,9 +12,9 @@ apply plugin: 'maven-publish'
 apply plugin: 'base'
 
 // Dependency versions
-ext.mpsVersion = '2018.1'
-ext.mbeddrVersion = '1.0.+'
-ext.iets3Version = '0.1.+'
+ext.mpsVersion = '2022.3+'
+ext.mbeddrVersion = '2022.3+'
+ext.iets3Version = '2022.3+'
 
 // Default repository credentials
 if (!project.hasProperty('nexusUsername')) {
@@ -24,24 +24,24 @@ if (!project.hasProperty('nexusUsername')) {
 logger.info 'Repository username: {}', project.nexusUsername
 
 ext.dependencyRepositories = [
-        'https://projects.itemis.de/nexus/content/repositories/mbeddr',
-        'https://projects.itemis.de/nexus/content/repositories/mbeddr_snapshots'
+        'https://artifacts.itemis.cloud/repository/maven-mps/'
         ]
 
 //will pull the groovy classes/types from nexus to the classpath
 buildscript {
     repositories {
-        maven { url 'https://projects.itemis.de/nexus/content/repositories/mbeddr' }
+        maven { url 'https://artifacts.itemis.cloud/repository/maven-mps/' }
+	mavenCentral()
     }
     dependencies {
-        classpath 'de.itemis.mps:mps-gradle-plugin:1.0.55+'
+        classpath 'de.itemis.mps:mps-gradle-plugin:1.11+'
     }
 }
 
-task wrapper(type: Wrapper) {
-    gradleVersion '4.6'
-    distributionType 'all'
-}
+//task wrapper(type: Wrapper) {
+////    gradleVersion '4.6'
+//    distributionType 'all'
+//}
 
 configurations {
     mps
@@ -55,9 +55,13 @@ dependencies {
 	mbeddrPlatformArtifacts "org.iets3:opensource:$iets3Version"
     mbeddrPlatformArtifacts "com.mbeddr:allScripts:$mbeddrVersion"
     mbeddrPlatformArtifacts "com.mbeddr:platform:$mbeddrVersion"
-    jdk "com.jetbrains.jdk:jdk:8u112b408.4:windows_x64@tgz"
-	jdk "com.jetbrains.jdk:jdk:8u112b408.4:osx_x64@tgz"
+    jdk "com.jetbrains.jdk:jbrsdk:17.0.8.1-b1000.32:windows-x64@tgz"
+	jdk "com.jetbrains.jdk:jbrsdk:17.0.8.1-b1000.32:osx-x64@tgz"
     ant_lib "org.apache.ant:ant-junit:1.10.1"
+}
+
+tasks.named('wrapper') {
+    distributionType = Wrapper.DistributionType.ALL
 }
 
 // ___________________ utilities ___________________
@@ -66,6 +70,7 @@ File scriptFile(String relativePath) {
 }
 
 repositories {
+    mavenCentral()
     for (repoUrl in project.dependencyRepositories) {
         maven {
             url repoUrl
@@ -82,18 +87,21 @@ repositories {
 
 // JDK_HOME required for adding tools.jar into classpath of the forked ant process
 if (!hasProperty("jdk_home")) {
-    def java_home = System.properties['java.home']
-    def jdk_home = java_home
-    if (!file("$jdk_home/lib/tools.jar").isFile()) {
-        jdk_home = jdk_home + "/.."
-    }
-    if (!file("$jdk_home/lib/tools.jar").isFile()) {
-        throw new GradleException("Was not able to locate jdk home folder. Use 'jdk_home' project variable to specify JDK location explicitly. Current JAVA_HOME is: $java_home")
-    }
-    ext.jdk_home = jdk_home
+    ext.jdk_home = System.properties['java.home']
 }
 
-
+//// JDK_HOME required for adding tools.jar into classpath of the forked ant process
+//if (!hasProperty("jdk_home")) {
+//    def java_home = System.properties['java.home']
+//    def jdk_home = java_home
+//    if (!file("$jdk_home/lib/tools.jar").isFile()) {
+//        jdk_home = jdk_home + "/.."
+//    }
+//    if (!file("$jdk_home/lib/tools.jar").isFile()) {
+//        throw new GradleException("Was not able to locate jdk home folder. Use 'jdk_home' project variable to specify JDK location explicitly. Current JAVA_HOME is: $java_home")
+//    }
+//    ext.jdk_home = jdk_home
+//}
 
 //define directories
 ext.artifactsDir = new File(rootDir, 'artifacts')
@@ -203,7 +211,7 @@ task build_macDistro(type: RunAntScript, dependsOn: [build_genericDistro]) {
 task build_dmg(type: CreateDmg, dependsOn: build_macDistro ) {
     description "Main task to build macOS RCP"
     rcpArtifact rootProject.file('artifacts/rcp.distro.mac/MPS_RCP-mac.zip')
-    jdkDependency "com.jetbrains.jdk:jdk:8u112b408.4:osx_x64@tgz"
+    jdkDependency "com.jetbrains.jdk:jbrsdk:17.0.8.1-b1000.32:osx-x64@tgz"
     backgroundImage rootProject.file('branding/rcpAbout.png')
     dmgFile rootProject.file('artifacts/rcp-macos.dmg')
 }
