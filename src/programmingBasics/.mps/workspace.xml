@@ -18,16 +18,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5474529e-c961-46f1-bc63-0693056b6dfc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics.plugin/models/plugin.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics.plugin/models/plugin.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises01.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises01.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises02.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises02.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises03.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises03.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises04.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises04.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises05.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises05.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises06.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises06.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises07.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises07.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises08.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises08.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/programmingBasics.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/programmingBasics.msd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +39,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="4c4dc17c-2c6d-4040-b1d0-f702a5f07dba/r:a5973b47-c946-40d8-b5b7-d1f42d9096c1(TempModule4c4dc17c-2c6d-4040-b1d0-f702a5f07dba/ConsoleModel_3143483671433)">
+            <model ref="cc367fc4-41a1-4f48-8889-f9a316d33903/r:b12d28b0-3b9a-4c7f-9b92-00c937445161(TempModulecc367fc4-41a1-4f48-8889-f9a316d33903/ConsoleModel_3875915767926)">
               <persistence version="9" />
               <languages>
                 <use id="1a8554c4-eb84-43ba-8c34-6f0d90c6e75a" name="jetbrains.mps.lang.smodel.query" version="3" />
@@ -186,142 +176,142 @@
                   <concept id="4307205004134636962" name="jetbrains.mps.console.base.structure.ProjectScope_old" flags="ng" index="1dZ9A3" />
                 </language>
               </registry>
-              <node concept="aymSD" id="6C6XmvQ6dSL">
-                <node concept="3balQm" id="6C6XmvQ6dSM" role="aymYE">
-                  <node concept="2Clz$F" id="6C6XmvQ6dSN" role="18xWvz">
+              <node concept="aymSD" id="9aM_CaMous">
+                <node concept="3balQm" id="9aM_CaMout" role="aymYE">
+                  <node concept="2Clz$F" id="9aM_CaMouu" role="18xWvz">
                     <property role="TrG5h" value="CommandHolder" />
-                    <node concept="f80E0" id="6C6XmvQ6dSO" role="2Clzx4">
-                      <node concept="2OqwBi" id="6C6XmvQ6dSP" role="f80$r">
-                        <node concept="2OqwBi" id="6C6XmvQ6dSQ" role="2Oq$k0">
-                          <node concept="qVDSY" id="6C6XmvQ6dSR" role="2Oq$k0">
-                            <node concept="1dO9Bo" id="6C6XmvQ6dSS" role="1dOa5D">
-                              <node concept="1dRE$e" id="6C6XmvQ6dST" role="1dp2q7">
-                                <node concept="1dZ9A3" id="6C6XmvQ6dSU" role="1dZqIC" />
+                    <node concept="f80E0" id="9aM_CaMouv" role="2Clzx4">
+                      <node concept="2OqwBi" id="9aM_CaMouw" role="f80$r">
+                        <node concept="2OqwBi" id="9aM_CaMoux" role="2Oq$k0">
+                          <node concept="qVDSY" id="9aM_CaMouy" role="2Oq$k0">
+                            <node concept="1dO9Bo" id="9aM_CaMouz" role="1dOa5D">
+                              <node concept="1dRE$e" id="9aM_CaMou$" role="1dp2q7">
+                                <node concept="1dZ9A3" id="9aM_CaMou_" role="1dZqIC" />
                               </node>
                             </node>
-                            <node concept="chp4Y" id="6C6XmvQ6dSV" role="qVDSX">
+                            <node concept="chp4Y" id="9aM_CaMouA" role="qVDSX">
                               <ref role="cht4Q" to="34lm:1sudaVNqvkx" resolve="ScreenshotPathSpec" />
                             </node>
                           </node>
-                          <node concept="3zZkjj" id="6C6XmvQ6dSW" role="2OqNvi">
-                            <node concept="1bVj0M" id="6C6XmvQ6dSX" role="23t8la">
+                          <node concept="3zZkjj" id="9aM_CaMouB" role="2OqNvi">
+                            <node concept="1bVj0M" id="9aM_CaMouC" role="23t8la">
                               <property role="3yWfEV" value="true" />
-                              <node concept="3clFbS" id="6C6XmvQ6dSY" role="1bW5cS">
-                                <node concept="3clFbF" id="6C6XmvQ6dSZ" role="3cqZAp">
-                                  <node concept="3clFbT" id="6C6XmvQ6dT0" role="3clFbG">
+                              <node concept="3clFbS" id="9aM_CaMouD" role="1bW5cS">
+                                <node concept="3clFbF" id="9aM_CaMouE" role="3cqZAp">
+                                  <node concept="3clFbT" id="9aM_CaMouF" role="3clFbG">
                                     <property role="3clFbU" value="true" />
                                   </node>
                                 </node>
                               </node>
-                              <node concept="Rh6nW" id="6C6XmvQ6dT1" role="1bW2Oz">
+                              <node concept="Rh6nW" id="9aM_CaMouG" role="1bW2Oz">
                                 <property role="TrG5h" value="node" />
-                                <node concept="2jxLKc" id="6C6XmvQ6dT2" role="1tU5fm" />
+                                <node concept="2jxLKc" id="9aM_CaMouH" role="1tU5fm" />
                               </node>
                             </node>
                           </node>
                         </node>
-                        <node concept="3R8V_t" id="6C6XmvQ6dT3" role="2OqNvi">
-                          <node concept="1bVj0M" id="6C6XmvQ6dT4" role="23t8la">
+                        <node concept="3R8V_t" id="9aM_CaMouI" role="2OqNvi">
+                          <node concept="1bVj0M" id="9aM_CaMouJ" role="23t8la">
                             <property role="3yWfEV" value="true" />
-                            <node concept="3clFbS" id="6C6XmvQ6dT5" role="1bW5cS">
-                              <node concept="3cpWs8" id="6C6XmvQ6dT6" role="3cqZAp">
-                                <node concept="3cpWsn" id="6C6XmvQ6dT7" role="3cpWs9">
+                            <node concept="3clFbS" id="9aM_CaMouK" role="1bW5cS">
+                              <node concept="3cpWs8" id="9aM_CaMouL" role="3cqZAp">
+                                <node concept="3cpWsn" id="9aM_CaMouM" role="3cpWs9">
                                   <property role="TrG5h" value="pp" />
-                                  <node concept="3Tqbb2" id="6C6XmvQ6dT8" role="1tU5fm">
+                                  <node concept="3Tqbb2" id="9aM_CaMouN" role="1tU5fm">
                                     <ref role="ehGHo" to="68mc:2iGZqsHuOWj" resolve="SolutionRelativeDirPicker" />
                                   </node>
-                                  <node concept="2OqwBi" id="6C6XmvQ6dT9" role="33vP2m">
-                                    <node concept="2OqwBi" id="6C6XmvQ6dTa" role="2Oq$k0">
-                                      <node concept="37vLTw" id="6C6XmvQ6dTb" role="2Oq$k0">
-                                        <ref role="3cqZAo" node="6C6XmvQ6dTq" resolve="node" />
+                                  <node concept="2OqwBi" id="9aM_CaMouO" role="33vP2m">
+                                    <node concept="2OqwBi" id="9aM_CaMouP" role="2Oq$k0">
+                                      <node concept="37vLTw" id="9aM_CaMouQ" role="2Oq$k0">
+                                        <ref role="3cqZAo" node="9aM_CaMov5" resolve="node" />
                                       </node>
-                                      <node concept="3TrEf2" id="6C6XmvQ6dTc" role="2OqNvi">
+                                      <node concept="3TrEf2" id="9aM_CaMouR" role="2OqNvi">
                                         <ref role="3Tt5mk" to="34lm:1JOtRcapYu0" resolve="path" />
                                       </node>
                                     </node>
-                                    <node concept="zfrQC" id="6C6XmvQ6dTd" role="2OqNvi" />
+                                    <node concept="zfrQC" id="9aM_CaMouS" role="2OqNvi" />
                                   </node>
                                 </node>
                               </node>
-                              <node concept="3clFbF" id="6C6XmvQ6dTe" role="3cqZAp">
-                                <node concept="37vLTI" id="6C6XmvQ6dTf" role="3clFbG">
-                                  <node concept="Xl_RD" id="6C6XmvQ6dTg" role="37vLTx">
+                              <node concept="3clFbF" id="9aM_CaMouT" role="3cqZAp">
+                                <node concept="37vLTI" id="9aM_CaMouU" role="3clFbG">
+                                  <node concept="Xl_RD" id="9aM_CaMouV" role="37vLTx">
                                     <property role="Xl_RC" value="../../../../doc" />
                                   </node>
-                                  <node concept="2OqwBi" id="6C6XmvQ6dTh" role="37vLTJ">
-                                    <node concept="37vLTw" id="6C6XmvQ6dTi" role="2Oq$k0">
-                                      <ref role="3cqZAo" node="6C6XmvQ6dT7" resolve="pp" />
+                                  <node concept="2OqwBi" id="9aM_CaMouW" role="37vLTJ">
+                                    <node concept="37vLTw" id="9aM_CaMouX" role="2Oq$k0">
+                                      <ref role="3cqZAo" node="9aM_CaMouM" resolve="pp" />
                                     </node>
-                                    <node concept="3TrcHB" id="6C6XmvQ6dTj" role="2OqNvi">
+                                    <node concept="3TrcHB" id="9aM_CaMouY" role="2OqNvi">
                                       <ref role="3TsBF5" to="68mc:5lKnBeAtODI" resolve="path" />
                                     </node>
                                   </node>
                                 </node>
                               </node>
-                              <node concept="3clFbF" id="6C6XmvQ6dTk" role="3cqZAp">
-                                <node concept="37vLTI" id="6C6XmvQ6dTl" role="3clFbG">
-                                  <node concept="10Nm6u" id="6C6XmvQ6dTm" role="37vLTx" />
-                                  <node concept="2OqwBi" id="6C6XmvQ6dTn" role="37vLTJ">
-                                    <node concept="37vLTw" id="6C6XmvQ6dTo" role="2Oq$k0">
-                                      <ref role="3cqZAo" node="6C6XmvQ6dTq" resolve="node" />
+                              <node concept="3clFbF" id="9aM_CaMouZ" role="3cqZAp">
+                                <node concept="37vLTI" id="9aM_CaMov0" role="3clFbG">
+                                  <node concept="10Nm6u" id="9aM_CaMov1" role="37vLTx" />
+                                  <node concept="2OqwBi" id="9aM_CaMov2" role="37vLTJ">
+                                    <node concept="37vLTw" id="9aM_CaMov3" role="2Oq$k0">
+                                      <ref role="3cqZAo" node="9aM_CaMov5" resolve="node" />
                                     </node>
-                                    <node concept="3TrcHB" id="6C6XmvQ6dTp" role="2OqNvi">
+                                    <node concept="3TrcHB" id="9aM_CaMov4" role="2OqNvi">
                                       <ref role="3TsBF5" to="34lm:1sudaVNqvlc" resolve="path" />
                                     </node>
                                   </node>
                                 </node>
                               </node>
                             </node>
-                            <node concept="Rh6nW" id="6C6XmvQ6dTq" role="1bW2Oz">
+                            <node concept="Rh6nW" id="9aM_CaMov5" role="1bW2Oz">
                               <property role="TrG5h" value="node" />
-                              <node concept="2jxLKc" id="6C6XmvQ6dTr" role="1tU5fm" />
+                              <node concept="2jxLKc" id="9aM_CaMov6" role="1tU5fm" />
                             </node>
                           </node>
                         </node>
                       </node>
                     </node>
                   </node>
-                  <node concept="2Clz$F" id="6C6XmvQ6dTs" role="18xWvz">
+                  <node concept="2Clz$F" id="9aM_CaMov7" role="18xWvz">
                     <property role="TrG5h" value="CommandHolder" />
-                    <node concept="f80E0" id="6C6XmvQ6dTt" role="2Clzx4">
-                      <node concept="24aHrZ" id="6C6XmvQ6dTu" role="f80$r">
-                        <node concept="2OqwBi" id="6C6XmvQ6dTv" role="iY1wd">
-                          <node concept="qVDSY" id="6C6XmvQ6dTw" role="2Oq$k0">
-                            <node concept="chp4Y" id="6C6XmvQ6dTx" role="qVDSX">
+                    <node concept="f80E0" id="9aM_CaMov8" role="2Clzx4">
+                      <node concept="24aHrZ" id="9aM_CaMov9" role="f80$r">
+                        <node concept="2OqwBi" id="9aM_CaMova" role="iY1wd">
+                          <node concept="qVDSY" id="9aM_CaMovb" role="2Oq$k0">
+                            <node concept="chp4Y" id="9aM_CaMovc" role="qVDSX">
                               <ref role="cht4Q" to="34lm:1sudaVNmXYu" resolve="Frame" />
                             </node>
-                            <node concept="1dO9Bo" id="6C6XmvQ6dTy" role="1dOa5D">
-                              <node concept="psT0o" id="6C6XmvQ6dTz" role="1dp2q7">
-                                <node concept="p4YG9" id="6C6XmvQ6dT$" role="psT0v" />
+                            <node concept="1dO9Bo" id="9aM_CaMovd" role="1dOa5D">
+                              <node concept="psT0o" id="9aM_CaMove" role="1dp2q7">
+                                <node concept="p4YG9" id="9aM_CaMovf" role="psT0v" />
                               </node>
                             </node>
                           </node>
-                          <node concept="3zZkjj" id="6C6XmvQ6dT_" role="2OqNvi">
-                            <node concept="1bVj0M" id="6C6XmvQ6dTA" role="23t8la">
+                          <node concept="3zZkjj" id="9aM_CaMovg" role="2OqNvi">
+                            <node concept="1bVj0M" id="9aM_CaMovh" role="23t8la">
                               <property role="3yWfEV" value="true" />
-                              <node concept="3clFbS" id="6C6XmvQ6dTB" role="1bW5cS">
-                                <node concept="3clFbF" id="6C6XmvQ6dTC" role="3cqZAp">
-                                  <node concept="2OqwBi" id="6C6XmvQ6dTD" role="3clFbG">
-                                    <node concept="2OqwBi" id="6C6XmvQ6dTE" role="2Oq$k0">
-                                      <node concept="37vLTw" id="6C6XmvQ6dTF" role="2Oq$k0">
-                                        <ref role="3cqZAo" node="6C6XmvQ6dTJ" resolve="node" />
+                              <node concept="3clFbS" id="9aM_CaMovi" role="1bW5cS">
+                                <node concept="3clFbF" id="9aM_CaMovj" role="3cqZAp">
+                                  <node concept="2OqwBi" id="9aM_CaMovk" role="3clFbG">
+                                    <node concept="2OqwBi" id="9aM_CaMovl" role="2Oq$k0">
+                                      <node concept="37vLTw" id="9aM_CaMovm" role="2Oq$k0">
+                                        <ref role="3cqZAo" node="9aM_CaMovq" resolve="node" />
                                       </node>
-                                      <node concept="3TrcHB" id="6C6XmvQ6dTG" role="2OqNvi">
+                                      <node concept="3TrcHB" id="9aM_CaMovn" role="2OqNvi">
                                         <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
                                       </node>
                                     </node>
-                                    <node concept="liA8E" id="6C6XmvQ6dTH" role="2OqNvi">
+                                    <node concept="liA8E" id="9aM_CaMovo" role="2OqNvi">
                                       <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                      <node concept="Xl_RD" id="6C6XmvQ6dTI" role="37wK5m">
+                                      <node concept="Xl_RD" id="9aM_CaMovp" role="37wK5m">
                                         <property role="Xl_RC" value="riskFactorForperson" />
                                       </node>
                                     </node>
                                   </node>
                                 </node>
                               </node>
-                              <node concept="Rh6nW" id="6C6XmvQ6dTJ" role="1bW2Oz">
+                              <node concept="Rh6nW" id="9aM_CaMovq" role="1bW2Oz">
                                 <property role="TrG5h" value="node" />
-                                <node concept="2jxLKc" id="6C6XmvQ6dTK" role="1tU5fm" />
+                                <node concept="2jxLKc" id="9aM_CaMovr" role="1tU5fm" />
                               </node>
                             </node>
                           </node>
@@ -330,9 +320,9 @@
                     </node>
                   </node>
                 </node>
-                <node concept="2Clz$F" id="6C6XmvQ6h04" role="aymYO" />
-                <node concept="2_V_lH" id="6C6XmvQ6h05" role="1PhJh3">
-                  <ref role="2_V_lI" node="6C6XmvQ6h04" resolve="CommandHolder" />
+                <node concept="2Clz$F" id="9aM_CaMrxm" role="aymYO" />
+                <node concept="2_V_lH" id="9aM_CaMrxn" role="1PhJh3">
+                  <ref role="2_V_lI" node="9aM_CaMrxm" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -741,12 +731,22 @@
           <PluginState />
         </value>
       </option>
+      <option name="jetbrains.mps.ide.devkit.editor.Editor_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="jetbrains.mps.ide.make.actions.Make_ProjectPlugin">
         <value>
           <PluginState />
         </value>
       </option>
       <option name="jetbrains.mps.lang.editor.tooltips.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="jetbrains.mps.migration.workbench.plugin.Workbench_ProjectPlugin">
         <value>
           <PluginState />
         </value>
@@ -788,27 +788,10 @@
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
       <pane id="Scope" />
-      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AddingToLists" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <SELECTED>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AddingToLists" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer#bookmarkNode#AddAndRemove" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </SELECTED>
-        </subPane>
-      </pane>
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
         <subPane />
       </pane>
       <pane id="FileSystem" />
@@ -817,6 +800,10 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -840,20 +827,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:bcea85e8-fe12-403e-9e6f-8cc27ca73729(chapter07_decAndCalc) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter07_decAndCalc.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -863,6 +836,50 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="r:a20d865a-17b8-4903-9449-725ecfb7b5f0(programmingBasics.plugin.plugin) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics.plugin/models/plugin.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:3a1c0b08-ecea-441c-a1ee-79d5b39fbb64(chapter08_instantiation) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter08_instantiation.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:e00f4849-fe23-45e3-8ca0-de542fab6857(chapter05_structured) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter05_structured.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -904,7 +921,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:16d89834-7a42-43f5-ba48-4acec0e1fb39(chapter04_functions) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter04_functions.mps]" />
+              <option name="myItemId" value="r:bcea85e8-fe12-403e-9e6f-8cc27ca73729(chapter07_decAndCalc) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter07_decAndCalc.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -931,26 +948,6 @@
               <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="r:78a11fed-32ce-4e6e-924f-b137d7d5481f(chapter06_collections) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter06_collections.mps]" />
               <option name="myItemType" value="" />
@@ -962,39 +959,25 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:16d89834-7a42-43f5-ba48-4acec0e1fb39(chapter04_functions) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter04_functions.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:3a1c0b08-ecea-441c-a1ee-79d5b39fbb64(chapter08_instantiation) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter08_instantiation.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:e00f4849-fe23-45e3-8ca0-de542fab6857(chapter05_structured) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter05_structured.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -1004,19 +987,12 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
-        <subPane />
-      </pane>
-      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
-        <subPane />
-      </pane>
-      <pane id="Favorites" />
       <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
         <subPane>
           <PATH>
@@ -1037,9 +1013,33 @@
           </SELECTED>
         </subPane>
       </pane>
+      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
       <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
         <subPane />
       </pane>
+      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AddingToLists" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <SELECTED>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AddingToLists" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer#bookmarkNode#AddAndRemove" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </SELECTED>
+        </subPane>
+      </pane>
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -1051,7 +1051,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.mbeddr.mpsutil.multilingual.concept.runtime.plugin.MultilingualConceptProjectPlugin_CustomProjectPlugin.showTranslations" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.libraryManager" />
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
