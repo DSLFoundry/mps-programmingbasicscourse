@@ -591,7 +591,7 @@
             </node>
           </node>
           <node concept="3co7Ac" id="NhfwVTkU_4" role="28jJR8">
-            <property role="3co7Am" value="lf" />
+            <property role="3co7Am" value="3D3G23Q8WAL/lf" />
             <property role="3cpA_W" value="true" />
           </node>
           <node concept="398BVA" id="NhfwVTkU_5" role="28jJRO">
@@ -619,7 +619,7 @@
         </node>
         <node concept="28jJK3" id="NhfwVTkU_K" role="39821P">
           <node concept="3co7Ac" id="NhfwVTkU_L" role="28jJR8">
-            <property role="3co7Am" value="lf" />
+            <property role="3co7Am" value="3D3G23Q8WAL/lf" />
             <property role="3cpA_W" value="true" />
           </node>
           <node concept="398BVA" id="NhfwVTkU_M" role="28jJRO">
@@ -631,7 +631,7 @@
         </node>
         <node concept="28jJK3" id="NhfwVTkU_Z" role="39821P">
           <node concept="3co7Ac" id="NhfwVTkUA0" role="28jJR8">
-            <property role="3co7Am" value="lf" />
+            <property role="3co7Am" value="3D3G23Q8WAL/lf" />
             <property role="3cpA_W" value="true" />
           </node>
           <node concept="398BVA" id="NhfwVTkUA1" role="28jJRO">
@@ -1213,7 +1213,7 @@
               <node concept="28jJK3" id="1jZm1v5nuVV" role="39821P">
                 <property role="28jJZ5" value="644" />
                 <node concept="3co7Ac" id="1jZm1v5nuVW" role="28jJR8">
-                  <property role="3co7Am" value="lf" />
+                  <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                   <property role="3cpA_W" value="true" />
                 </node>
                 <node concept="2$gBol" id="1jZm1v5nuVX" role="28jJR8">
@@ -1237,7 +1237,7 @@
               <node concept="28jJK3" id="1jZm1v5nv01" role="39821P">
                 <property role="28jJZ5" value="644" />
                 <node concept="3co7Ac" id="1jZm1v5nv02" role="28jJR8">
-                  <property role="3co7Am" value="lf" />
+                  <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                   <property role="3cpA_W" value="true" />
                 </node>
                 <node concept="2$gBol" id="1jZm1v5nv03" role="28jJR8">
@@ -1291,7 +1291,7 @@
               <node concept="28jJK3" id="4BctXOpkBtL" role="39821P">
                 <property role="28jJZ5" value="755" />
                 <node concept="3co7Ac" id="4BctXOplera" role="28jJR8">
-                  <property role="3co7Am" value="lf" />
+                  <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                   <property role="3cpA_W" value="true" />
                 </node>
                 <node concept="398BVA" id="4BctXOpkBtM" role="28jJRO">
@@ -1526,7 +1526,7 @@
           <node concept="28jJK3" id="6T5$sUAy0Xq" role="39821P">
             <property role="28jJZ5" value="644" />
             <node concept="3co7Ac" id="6T5$sUAy0Xr" role="28jJR8">
-              <property role="3co7Am" value="lf" />
+              <property role="3co7Am" value="3D3G23Q8WAL/lf" />
               <property role="3cpA_W" value="true" />
             </node>
             <node concept="2$gBol" id="6T5$sUAy0Xs" role="28jJR8">
@@ -1550,7 +1550,7 @@
           <node concept="28jJK3" id="6T5$sUAy0Xy" role="39821P">
             <property role="28jJZ5" value="644" />
             <node concept="3co7Ac" id="6T5$sUAy0Xz" role="28jJR8">
-              <property role="3co7Am" value="lf" />
+              <property role="3co7Am" value="3D3G23Q8WAL/lf" />
               <property role="3cpA_W" value="true" />
             </node>
             <node concept="2$gBol" id="6T5$sUAy0X$" role="28jJR8">
@@ -1638,7 +1638,7 @@
     <property role="3GE5qa" value="distribution" />
     <property role="TrG5h" value="jdk" />
     <node concept="1tmT9g" id="58oUBCRGc16" role="39821P">
-      <property role="AB_bT" value="gzip" />
+      <property role="AB_bT" value="1HQQX4XU8$A/gzip" />
       <node concept="3_J27D" id="58oUBCRGc17" role="Nbhlr">
         <node concept="3Mxwew" id="58oUBCRGc1g" role="3MwsjC">
           <property role="3MwjfP" value="jdk-osx_x64.tgz" />
@@ -1646,7 +1646,7 @@
       </node>
     </node>
     <node concept="1tmT9g" id="58oUBCRGc1l" role="39821P">
-      <property role="AB_bT" value="gzip" />
+      <property role="AB_bT" value="1HQQX4XU8$A/gzip" />
       <node concept="398223" id="4v_RrKhH5r5" role="39821P">
         <node concept="3_J27D" id="4v_RrKhH5r7" role="Nbhlr">
           <node concept="3Mxwew" id="4v_RrKhH5rb" role="3MwsjC">
@@ -1661,7 +1661,7 @@
       </node>
     </node>
     <node concept="1tmT9g" id="$pv0W97efc" role="39821P">
-      <property role="AB_bT" value="gzip" />
+      <property role="AB_bT" value="1HQQX4XU8$A/gzip" />
       <node concept="3_J27D" id="$pv0W97efd" role="Nbhlr">
         <node concept="3Mxwew" id="$pv0W97efe" role="3MwsjC">
           <property role="3MwjfP" value="jdk-linux_x64.tgz" />
