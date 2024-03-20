@@ -7,16 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e29ade88-48e4-4d88-8ccb-08b8cdbd6fc3" name="Default" comment="mps build: added buildscripts for mac/win">
-      <change afterPath="$PROJECT_DIR$/../../.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/migration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mps/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/rcp.allScript/models/buildAll.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.allScript/models/buildAll.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/rcp.allScript/rcp.allScript.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.allScript/rcp.allScript.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/rcp.build/models/build.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.build/models/build.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/rcp.build/rcp.build.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.build/rcp.build.msd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/migration.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics.plugin/models/plugin.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics.plugin/models/plugin.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter01_values.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter01_values.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter02_testing.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter02_testing.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter03_types.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter03_types.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter04_functions.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter04_functions.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter05_structured.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter05_structured.mps" afterDir="false" />
@@ -24,6 +27,10 @@
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter07_decAndCalc.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter07_decAndCalc.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter08_instantiation.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter08_instantiation.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter09_timeAndState.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter09_timeAndState.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises01.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises01.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises02.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises02.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises03.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises03.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises04.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises04.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises05.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises05.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises06.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises06.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises07.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises07.mps" afterDir="false" />
@@ -50,7 +57,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="77019032-a50e-4110-b6f2-e0ac115cee23/r:6662db3a-be6f-453e-b28a-4b4c291effc8(TempModule77019032-a50e-4110-b6f2-e0ac115cee23/TempModel_949354301650)">
+            <model ref="71e6a320-af1b-48c3-a717-351327b192fb/r:21d7bf24-83f2-4c99-867c-2943a6608255(TempModule71e6a320-af1b-48c3-a717-351327b192fb/TempModel_1491538364353)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -70,11 +77,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="uKEbBD5hlv">
-                <node concept="3balQm" id="uKEbBD5hlw" role="aymYE" />
-                <node concept="2Clz$F" id="uKEbBD5hlx" role="aymYO" />
-                <node concept="2_V_lH" id="uKEbBD5hly" role="1PhJh3">
-                  <ref role="2_V_lI" node="uKEbBD5hlx" resolve="CommandHolder" />
+              <node concept="aymSD" id="2rLCOTan2by">
+                <node concept="3balQm" id="2rLCOTan2bz" role="aymYE" />
+                <node concept="2Clz$F" id="2rLCOTan2b$" role="aymYO" />
+                <node concept="2_V_lH" id="2rLCOTan2b_" role="1PhJh3">
+                  <ref role="2_V_lI" node="2rLCOTan2b$" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -96,32 +103,21 @@
       </view>
     </search_options>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-267335497">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="mps://node://rcp.allScript/rcp.allScript.buildAll/rcp.allScripts.build">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="278">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="199" />
-                    <property name="caretXRelative" value="8" />
+                    <property name="caretX" value="135" />
+                    <property name="caretXRelative" value="16" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_parallelThreads">
-                      <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/3008937229056437609" />
+                    <cellInfo cellId="property_name">
+                      <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/6338475295235964560" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -134,9 +130,51 @@
                     </cellIdElement>
                   </collapsedElement>
                 </foldable>
+                <restoreAlways>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_pilq2t_c0">
+                      <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/3309119171030047640" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </restoreAlways>
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="mps://node://rcp.build/rcp.build.build/jdk">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="175" />
+                    <property name="caretXRelative" value="112" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_text3">
+                      <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -172,7 +210,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -205,10 +243,46 @@
                 </selectionStack>
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_1x254q_db1a">
+                      <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_1x254q_g1a">
+                      <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_1x254q_f1a">
+                      <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_1x254q_e1a">
+                      <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_1x254q_d1a">
+                      <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_1x254q_c1a">
+                      <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_1x254q_b1a">
+                      <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -223,7 +297,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.win">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -244,7 +318,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -280,7 +354,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -316,7 +390,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -449,6 +523,16 @@
         </value>
       </option>
       <option name="com.mbeddr.doc.aspect.ui.plugin.Ui_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.doc.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.asynccell.plugin.Asynccell_ProjectPlugin">
         <value>
           <PluginState />
         </value>
@@ -609,6 +693,21 @@
           <PluginState />
         </value>
       </option>
+      <option name="de.q60.mps.shadowmodels.debugview.plugin.Debugview_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="de.q60.mps.shadowmodels.modelcheck.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="de.q60.mps.shadowmodels.runtime.plugin.Runtime_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="de.slisson.mps.conditionalEditor.runtime.plugin.Runtime_ProjectPlugin">
         <value>
           <PluginState />
@@ -672,6 +771,19 @@
           <PluginState />
         </value>
       </option>
+      <option name="org.iets3.core.expr.testExecution.plugin.TestExecution_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="org.iets3.core.expr.testExecution.plugin.TestExecution_ProjectPlugin$2" />
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
     </option>
   </component>
   <component name="ProjectReloadState">
@@ -683,118 +795,11 @@
     </navigator>
     <panes>
       <pane id="Favorites" />
-      <pane id="FileSystem" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b47a1c5d-e3de-4d12-8a26-300a9d2c3bf7" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rcp" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b47a1c5d-e3de-4d12-8a26-300a9d2c3bf7" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rcp" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll) in IdeaFile[file:///home/eugen/repo/github/mps-programmingbasicscourse/rcp/BuildRCP/solutions/rcp.allScript/models/buildAll.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rcp" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build) in IdeaFile[file:///home/eugen/repo/github/mps-programmingbasicscourse/rcp/BuildRCP/solutions/rcp.build/models/build.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="distribution" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b47a1c5d-e3de-4d12-8a26-300a9d2c3bf7" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rcp" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rcp" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build) in IdeaFile[file:///home/eugen/repo/github/mps-programmingbasicscourse/rcp/BuildRCP/solutions/rcp.build/models/build.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -807,18 +812,24 @@
               <option name="myItemId" value="b47a1c5d-e3de-4d12-8a26-300a9d2c3bf7" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </SELECTED>
+          <SELECTED>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rcp" />
+              <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll) in IdeaFile[file:///home/eugen/repo/github/mps-programmingbasicscourse/rcp/BuildRCP/solutions/rcp.allScript/models/buildAll.mps]" />
+              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
+      <pane id="FileSystem" />
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
         <subPane />
       </pane>
       <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
@@ -889,8 +900,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1040" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2473176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -899,7 +911,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Model Checker" order="7" sideWeight="0.4968017" weight="0.32959852" />
+      <window_info active="true" anchor="bottom" id="Model Checker" order="7" sideWeight="0.49570817" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Bookmarks" order="8" />
       <window_info anchor="bottom" id="Migration" order="9" />
       <window_info anchor="bottom" id="Menu Trace" order="10" />
@@ -907,24 +919,26 @@
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Generation Tracer" order="13" />
       <window_info anchor="bottom" id="Classpath Explorer" order="14" />
-      <window_info anchor="bottom" id="Documentation" order="15" weight="0.22306855" />
+      <window_info anchor="bottom" id="Documentation" order="15" weight="0.2247557" />
       <window_info anchor="bottom" id="Dependencies Viewer" order="16" />
       <window_info anchor="bottom" id="Usages" order="17" sideWeight="0.49641833" weight="0.32945737" />
       <window_info anchor="bottom" id="Node Explorer" order="18" />
       <window_info anchor="bottom" id="Module Dependencies" order="19" />
       <window_info anchor="bottom" id="Version Control" order="20" />
       <window_info anchor="bottom" id="Cell Explorer" order="21" />
-      <window_info anchor="bottom" id="Messages" order="22" sideWeight="0.49498567" visible="true" weight="0.1936888" />
+      <window_info anchor="bottom" id="Messages" order="22" sideWeight="0.49498567" weight="0.19326818" />
       <window_info anchor="bottom" id="Typechecker State" order="23" />
       <window_info anchor="bottom" id="Console" order="24" />
       <window_info anchor="bottom" id="RefactoringView" order="25" />
       <window_info anchor="bottom" id="Trace Explorer" order="26" />
       <window_info anchor="bottom" id="mbeddr TODO" order="27" />
-      <window_info anchor="bottom" id="Inspector" order="28" sideWeight="0.50319827" side_tool="true" weight="0.32959852" />
+      <window_info anchor="bottom" id="Inspector" order="28" sideWeight="0.50429183" side_tool="true" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Chart" order="29" />
       <window_info anchor="bottom" id="Type System Performance Data" order="30" />
       <window_info anchor="bottom" id="Spin Verification Result" order="31" />
       <window_info anchor="bottom" id="CBMC Raw Results" order="32" />
+      <window_info anchor="bottom" id="Shadow Models" order="33" />
+      <window_info anchor="bottom" id="Comment Tags" order="34" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -953,9 +967,6 @@
     <default_view_options>
       <options category_option="false" module_option="true" model_option="true" root_option="true" path_option="false" count_option="true" info_option="true" view_searched_nodes_option="true" group_searched_nodes_option="true" autoscroll_option="false" />
     </default_view_options>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mps build: added buildscripts for mac/win" />
@@ -1445,46 +1456,6 @@
     <entry file="mps://node://build.rcp/build.rcp.build/gdl.distro.win" />
     <entry file="mps://node://build.rcp/build.rcp.build/gdl.distro.mac" />
     <entry file="mps://node://build.rcp/build.rcp.build/rcp.distro.generic" />
-    <entry file="mps://node://rcp.allScript/rcp.allScript.buildAll/rcp.allScripts.build">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="199" />
-                <property name="caretXRelative" value="8" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_parallelThreads">
-                  <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/3008937229056437609" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_pilq2t_c0">
-                  <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/3309119171030047640" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://rcp.build/rcp.build.build/rcp-startup">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1505,7 +1476,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1536,10 +1507,46 @@
             </selectionStack>
             <errorMarkers />
             <transactionalProperties />
-            <foldable />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_1x254q_db1a">
+                  <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_1x254q_g1a">
+                  <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_1x254q_f1a">
+                  <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_1x254q_e1a">
+                  <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_1x254q_d1a">
+                  <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_1x254q_c1a">
+                  <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_1x254q_b1a">
+                  <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/3373348169542767823" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1573,7 +1580,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1607,7 +1614,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1641,7 +1648,87 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://rcp.allScript/rcp.allScript.buildAll/rcp.allScripts.build">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="278">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="135" />
+                <property name="caretXRelative" value="16" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/6338475295235964560" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_pilq2t_c0">
+                  <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/3309119171030047640" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_pilq2t_c0">
+                  <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/3309119171030047640" />
+                </cellIdElement>
+              </collapsedElement>
+            </restoreAlways>
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://rcp.build/rcp.build.build/jdk">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="175" />
+                <property name="caretXRelative" value="112" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_text3">
+                  <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/5915735921192386647" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
