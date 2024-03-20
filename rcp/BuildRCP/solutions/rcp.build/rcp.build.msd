@@ -21,9 +21,7 @@
   <dependencyVersions>
     <module reference="3ae9cfda-f938-4524-b4ca-fbcba3b0525b(com.mbeddr.platform)" version="0" />
     <module reference="422c2909-59d6-41a9-b318-40e6256b250f(jetbrains.mps.ide.build)" version="0" />
-    <module reference="bf6914ec-737d-4231-8e8d-94477f17fdcf(org.iets3.core.build)" version="0" />
     <module reference="31dfb853-8304-435d-b27c-e29ef9a627cf(org.iets3.opensource.build)" version="0" />
-    <module reference="3da7eb9f-8dcb-4f5f-9b48-0209463416c3(org.iets3.tools.z3.build)" version="0" />
     <module reference="555b0d91-3936-438a-a829-eeae24c0c4f6(rcp.build)" version="0" />
   </dependencyVersions>
 </solution>

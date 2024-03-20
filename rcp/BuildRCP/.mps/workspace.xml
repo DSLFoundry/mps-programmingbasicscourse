@@ -7,12 +7,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e29ade88-48e4-4d88-8ccb-08b8cdbd6fc3" name="Default" comment="mps build: added buildscripts for mac/win">
+      <change afterPath="$PROJECT_DIR$/../../.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/migration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/rcp.allScript/models/buildAll.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.allScript/models/buildAll.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/rcp.allScript/rcp.allScript.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.allScript/rcp.allScript.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/rcp.build/rcp.build.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.build/rcp.build.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/migration.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter03_types.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter03_types.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter04_functions.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter04_functions.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter05_structured.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter05_structured.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter06_collections.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter06_collections.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter07_decAndCalc.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter07_decAndCalc.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter08_instantiation.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter08_instantiation.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter09_timeAndState.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/chapter09_timeAndState.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises05.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises05.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises06.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises06.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises07.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises07.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises08.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises08.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/programmingBasics.msd" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/programmingBasics.msd" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,27 +50,13 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="7bbb5b64-36ed-41ce-8701-7cd5ade4dfac/r:9792bae6-7d56-4260-8c6a-8aff3141fb75(TempModule7bbb5b64-36ed-41ce-8701-7cd5ade4dfac/TempModel_263047979514664)">
+            <model ref="77019032-a50e-4110-b6f2-e0ac115cee23/r:6662db3a-be6f-453e-b28a-4b4c291effc8(TempModule77019032-a50e-4110-b6f2-e0ac115cee23/TempModel_949354301650)">
               <persistence version="9" />
               <languages>
-                <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
-                <use id="a5e4de53-46a3-44da-aab3-68fdf1c34ed0" name="jetbrains.mps.console.ideCommands" version="2" />
-                <use id="995a7394-7f76-4b8b-a929-c53448708106" name="jetbrains.mps.console.internalCommands" version="0" />
-                <use id="f26691d2-0def-4c06-aec6-2cb90c4af0a4" name="jetbrains.mps.console.scripts" version="0" />
-                <devkit ref="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
+                <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
               </languages>
-              <imports>
-                <import index="eynw" ref="r:359b1d2b-77c4-46df-9bf2-b25cbea32254(jetbrains.mps.console.base.structure)" />
-                <import index="caxt" ref="r:135a606f-0376-4c5c-9ab8-4030f051a062(jetbrains.mps.console.ideCommands.structure)" />
-                <import index="wns9" ref="r:90445206-a973-4c1d-b760-30e5c77b7497(jetbrains.mps.console.internalCommands.structure)" />
-                <import index="z2sp" ref="r:e712f353-5c3c-4288-adce-87c956a52ffb(jetbrains.mps.console.scripts.structure)" />
-              </imports>
+              <imports />
               <registry>
-                <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
-                  <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
-                    <property id="1169194664001" name="name" index="TrG5h" />
-                  </concept>
-                </language>
                 <language id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base">
                   <concept id="1583916890557930028" name="jetbrains.mps.console.base.structure.ConsoleRoot" flags="ng" index="aymSD">
                     <child id="1583916890557930415" name="history" index="aymYE" />
@@ -66,13 +70,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="JV9IWPNPoU">
-                <node concept="3balQm" id="JV9IWPNPoV" role="aymYE" />
-                <node concept="2Clz$F" id="JV9IWPNPoW" role="aymYO">
-                  <property role="TrG5h" value="CommandHolder" />
-                </node>
-                <node concept="2_V_lH" id="JV9IWPNPoX" role="1PhJh3">
-                  <ref role="2_V_lI" node="JV9IWPNPoW" resolve="CommandHolder" />
+              <node concept="aymSD" id="uKEbBD5hlv">
+                <node concept="3balQm" id="uKEbBD5hlw" role="aymYE" />
+                <node concept="2Clz$F" id="uKEbBD5hlx" role="aymYO" />
+                <node concept="2_V_lH" id="uKEbBD5hly" role="1PhJh3">
+                  <ref role="2_V_lI" node="uKEbBD5hlx" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -94,9 +96,20 @@
       </view>
     </search_options>
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-267335497">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="rcp.allScripts.build" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://rcp.allScript/rcp.allScript.buildAll/rcp.allScripts.build">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -138,7 +151,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rcp-startup" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://rcp.build/rcp.build.build/rcp-startup">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -174,7 +187,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rcp.branding" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://rcp.build/rcp.build.build/rcp.branding">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -210,18 +223,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rcp.distro.win" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.win">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="88">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="63" />
+                    <property name="caretX" value="15" />
                     <property name="caretXRelative" value="0" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name">
+                    <cellInfo cellId="Constant_vny568_n0">
                       <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" />
                     </cellInfo>
                   </stackElement>
@@ -246,7 +259,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rcp.distro.mac" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.mac">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -282,7 +295,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rcp.distro.generic" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.generic">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -348,13 +361,65 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+    <option name="x" value="1920" />
     <option name="width" value="1920" />
-    <option name="height" value="1173" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectPluginManager">
     <option name="pluginsState">
+      <option name="com.mbddr.core.buildconfig.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="com.mbddr.core.buildconfig.pluginSolution.plugin.PluginSolution_ProjectPlugin$2" />
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="com.mbeddr.analyses.cbmc.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="com.mbeddr.analyses.cbmc.pluginSolution.plugin.cproverPreferences_PreferencesComponent" />
+                  <params>
+                    <option name="numberOfThreads" value="3" />
+                    <option name="timeoutForPartialAnalysis" value="600" />
+                    <option name="timeoutForAnAnalysis" value="600" />
+                    <option name="usedPreprocessor" value="GCC" />
+                    <option name="rebuildModelsBeforeAnalysis" value="true" />
+                    <option name="sliceFormula" value="true" />
+                    <option name="unwindingDepth" value="10" />
+                    <option name="unwindingAssertions" value="false" />
+                    <option name="partialLoops" value="true" />
+                    <option name="useRefinement" value="false" />
+                    <option name="wordWidth" value="default" />
+                    <option name="cStandard" value="C89" />
+                    <option name="usedCBMCVersion" value="5.8" />
+                    <option name="saveRawCBMCResults" value="false" />
+                  </params>
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
+      <option name="com.mbeddr.analyses.sat4j.fm.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.analyses.spin.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="com.mbeddr.core.base.plugin.Base_ProjectPlugin">
         <value>
           <PluginState />
@@ -376,6 +441,11 @@
               </list>
             </option>
           </PluginState>
+        </value>
+      </option>
+      <option name="com.mbeddr.core.runconfiguration.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState />
         </value>
       </option>
       <option name="com.mbeddr.doc.aspect.ui.plugin.Ui_ProjectPlugin">
@@ -496,6 +566,19 @@
           <PluginState />
         </value>
       </option>
+      <option name="com.mbeddt.core.expressions.pluginSolution.plugin.PluginSolution_ProjectPlugin">
+        <value>
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="com.mbeddt.core.expressions.pluginSolution.plugin.PluginSolution_ProjectPlugin$2" />
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
+        </value>
+      </option>
       <option name="de.audi.rcp.plugin.plugin.Plugin_ProjectPlugin">
         <value>
           <PluginState />
@@ -579,12 +662,20 @@
           <PluginState />
         </value>
       </option>
+      <option name="jetbrains.mps.vcs.mergehints.plugin.plugin.Plugin_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="org.iets3.core.expr.plugin.plugin.Plugin_ProjectPlugin">
         <value>
           <PluginState />
         </value>
       </option>
     </option>
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -600,6 +691,26 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="b47a1c5d-e3de-4d12-8a26-300a9d2c3bf7" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -612,10 +723,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="rcp" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build) in IdeaFile[file:///Users/markusvoelter/Documents/mbeddr/ProgrammingBasics/rcp/BuildRCP/solutions/rcp.build/models/build.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -632,28 +739,8 @@
               <option name="myItemId" value="rcp" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rcp" />
+              <option name="myItemId" value="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll) in IdeaFile[file:///home/eugen/repo/github/mps-programmingbasicscourse/rcp/BuildRCP/solutions/rcp.allScript/models/buildAll.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -671,33 +758,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build) in IdeaFile[file:///Users/markusvoelter/Documents/mbeddr/ProgrammingBasics/rcp/BuildRCP/solutions/rcp.build/models/build.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="distribution" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="branding" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rcp" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build) in IdeaFile[file:///Users/markusvoelter/Documents/mbeddr/ProgrammingBasics/rcp/BuildRCP/solutions/rcp.build/models/build.mps]" />
+              <option name="myItemId" value="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build) in IdeaFile[file:///home/eugen/repo/github/mps-programmingbasicscourse/rcp/BuildRCP/solutions/rcp.build/models/build.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -714,6 +775,10 @@
               <option name="myItemId" value="b47a1c5d-e3de-4d12-8a26-300a9d2c3bf7" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rcp" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -721,7 +786,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b47a1c5d-e3de-4d12-8a26-300a9d2c3bf7" />
+              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -729,7 +794,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll) in IdeaFile[file:///Users/markusvoelter/Documents/mbeddr/ProgrammingBasics/rcp/BuildRCP/solutions/rcp.allScript/models/buildAll.mps]" />
+              <option name="myItemId" value="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build) in IdeaFile[file:///home/eugen/repo/github/mps-programmingbasicscourse/rcp/BuildRCP/solutions/rcp.build/models/build.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -739,7 +804,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="555b0d91-3936-438a-a829-eeae24c0c4f6" />
+              <option name="myItemId" value="b47a1c5d-e3de-4d12-8a26-300a9d2c3bf7" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -747,15 +812,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build) in IdeaFile[file:///Users/markusvoelter/Documents/mbeddr/ProgrammingBasics/rcp/BuildRCP/solutions/rcp.build/models/build.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="distribution" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4205637915494128142" />
+              <option name="myItemId" value="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll) in IdeaFile[file:///home/eugen/repo/github/mps-programmingbasicscourse/rcp/BuildRCP/solutions/rcp.allScript/models/buildAll.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -764,13 +821,13 @@
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
         <subPane />
       </pane>
-      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
-        <subPane />
-      </pane>
       <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
         <subPane />
       </pane>
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
         <subPane />
       </pane>
       <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
@@ -817,12 +874,6 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
-    <configuration name="&lt;template&gt;" type="Remote" default="true" selected="false">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -837,58 +888,63 @@
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1172" extended-state="6" />
-    <editor active="true" />
+    <frame x="1920" y="0" width="1920" height="1040" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Visualization" order="3" />
-      <window_info anchor="bottom" id="Bookmarks" order="7" />
-      <window_info anchor="right" id="Diagram Palette" order="3" />
-      <window_info anchor="bottom" id="Model Checker" order="7" sideWeight="0.4968017" visible="true" weight="0.32959852" />
-      <window_info anchor="bottom" id="Menu Trace" order="7" />
-      <window_info anchor="bottom" id="Migration" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Generation Tracer" order="7" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Class Hierarchy" order="3" />
-      <window_info anchor="bottom" id="Module Dependencies" order="7" />
-      <window_info anchor="right" id="Search" order="3" />
-      <window_info anchor="bottom" id="Console" order="7" />
-      <window_info anchor="right" id="Tree" order="3" />
-      <window_info anchor="bottom" id="Inspector" order="7" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.32959852" />
-      <window_info anchor="right" id="Context Actions 2" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Usages" order="7" sideWeight="0.49641833" weight="0.32945737" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Chart" order="7" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49498567" weight="0.19379845" />
-      <window_info anchor="right" id="Context Actions" order="3" />
-      <window_info anchor="bottom" id="Documentation" order="7" weight="0.212987" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="right" id="Code Review" order="3" />
-      <window_info anchor="bottom" id="RefactoringView" order="7" />
-      <window_info anchor="bottom" id="Node Explorer" order="7" />
-      <window_info anchor="bottom" id="Typechecker State" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="right" id="Supertypes" order="3" />
-      <window_info anchor="right" id="Graphing" order="3" />
-      <window_info anchor="bottom" id="mbeddr TODO" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12313433" />
-      <window_info anchor="right" id="Typesystem Trace" order="3" />
-      <window_info anchor="bottom" id="Trace Explorer" order="7" />
-      <window_info anchor="right" id="Visualisation" order="3" />
-      <window_info anchor="bottom" id="Classpath Explorer" order="7" />
-      <window_info anchor="bottom" id="Cell Explorer" order="7" />
-      <window_info anchor="bottom" id="Dependencies Viewer" order="7" />
-      <window_info anchor="right" id="Graph Viewer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Model Checker" order="7" sideWeight="0.4968017" weight="0.32959852" />
+      <window_info anchor="bottom" id="Bookmarks" order="8" />
+      <window_info anchor="bottom" id="Migration" order="9" />
+      <window_info anchor="bottom" id="Menu Trace" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Generation Tracer" order="13" />
+      <window_info anchor="bottom" id="Classpath Explorer" order="14" />
+      <window_info anchor="bottom" id="Documentation" order="15" weight="0.22306855" />
+      <window_info anchor="bottom" id="Dependencies Viewer" order="16" />
+      <window_info anchor="bottom" id="Usages" order="17" sideWeight="0.49641833" weight="0.32945737" />
+      <window_info anchor="bottom" id="Node Explorer" order="18" />
+      <window_info anchor="bottom" id="Module Dependencies" order="19" />
+      <window_info anchor="bottom" id="Version Control" order="20" />
+      <window_info anchor="bottom" id="Cell Explorer" order="21" />
+      <window_info anchor="bottom" id="Messages" order="22" sideWeight="0.49498567" visible="true" weight="0.1936888" />
+      <window_info anchor="bottom" id="Typechecker State" order="23" />
+      <window_info anchor="bottom" id="Console" order="24" />
+      <window_info anchor="bottom" id="RefactoringView" order="25" />
+      <window_info anchor="bottom" id="Trace Explorer" order="26" />
+      <window_info anchor="bottom" id="mbeddr TODO" order="27" />
+      <window_info anchor="bottom" id="Inspector" order="28" sideWeight="0.50319827" side_tool="true" weight="0.32959852" />
+      <window_info anchor="bottom" id="Chart" order="29" />
+      <window_info anchor="bottom" id="Type System Performance Data" order="30" />
+      <window_info anchor="bottom" id="Spin Verification Result" order="31" />
+      <window_info anchor="bottom" id="CBMC Raw Results" order="32" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Type System Performance Data" order="8" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Visualization" order="3" />
+      <window_info anchor="right" id="Code Review" order="4" />
+      <window_info anchor="right" id="Class Hierarchy" order="5" />
+      <window_info anchor="right" id="Graphing" order="6" />
+      <window_info anchor="right" id="Graph Viewer" order="7" />
+      <window_info anchor="right" id="Search" order="8" />
+      <window_info anchor="right" id="Typesystem Trace" order="9" />
+      <window_info anchor="right" id="Visualisation" order="10" />
+      <window_info anchor="right" id="Supertypes" order="11" />
+      <window_info anchor="right" id="Diagram Palette" order="12" />
+      <window_info anchor="right" id="Context Actions" order="13" />
+      <window_info anchor="right" id="Tree" order="14" />
+      <window_info anchor="right" id="Context Actions 2" order="15" />
+      <window_info anchor="right" id="Variabiity Consistency Verification" order="16" />
+      <window_info anchor="right" id="CBMC Lifted Results" order="17" />
+      <window_info anchor="right" id="Spin Lifted Results" order="18" />
+      <window_info anchor="right" id="Generated Artifacts Reviewer" order="19" />
     </layout>
   </component>
   <component name="UsagesViewTool">
@@ -907,159 +963,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="mps build: standerlized the build directory" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://rcp.allScript/rcp.allScript.buildAll/rcp.allScripts.build">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_pilq2t_c0">
-                  <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/3309119171030047640" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.win">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.mac">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.generic">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://rcp.allScript/rcp.allScript.buildAll/rcp.allScripts.build">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="org.iets3.core" propertyCell="false" cellNumber="0">
-                <parent cellId="Collection_jumb3f_a">
-                  <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/1125034427845028653" />
-                </parent>
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_pilq2t_c0">
-                  <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/3309119171030047640" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://build.rcp/build.rcp.build/rcp.distro" />
-    <entry file="mps://node://rcp.allScript/rcp.allScript.buildAll/rcp.allScripts.build">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_pilq2t_c0">
-                  <node node_reference="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/3309119171030047640" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:a0b86693-8bd1-40d6-b89a-d7c9d0ac4fe6(rcp.allScript.buildAll)/3309119171030047573" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://build.rcp/build.rcp.build/RCP.branding" />
     <entry file="mps://node://build.rcp/build.rcp.build/gdl.distro.generic" />
-    <entry file="mps://node://build.rcp/build.rcp.build/gdl.distro.generic" />
-    <entry file="mps://node://build.rcp/build.rcp.build/gdl.distro.generic" />
-    <entry file="mps://node://gdl.build/gdl.build.build/gdl.branding" />
-    <entry file="mps://node://gdl.build/gdl.build.build/gdl.branding" />
-    <entry file="mps://node://gdl.build/gdl.build.build/gdl.branding" />
     <entry file="mps://node://jetbrains.mps.ide.build/jetbrains.mps.ide.build/mps">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1094,10 +999,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://gdl.build/gdl.build.build/gdl.branding" />
-    <entry file="mps://node://gdl.build/gdl.build.build/gdl.branding" />
-    <entry file="mps://node://gdl.build/gdl.build.build/gdl.branding" />
-    <entry file="mps://node://gdl.build/gdl.build.build/gdl.branding" />
     <entry file="mps://node://de.slisson.mps.all.build/de.slisson.mps.all.build/de.itemis.mps.extensions" />
     <entry file="mps://node://org.iets3.core.build/org.iets3.core.build/org.iets3.core" />
     <entry file="mps://node://org.iets3.opensource.build/org.iets3.opensource.build.build/org.iets3.opensource">
@@ -1652,40 +1553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.generic">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_roxgcf_a2a">
-                  <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4148436756233675358" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.mac">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1720,17 +1587,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.win">
+    <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.generic">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="88">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="63" />
+                <property name="caretX" value="79" />
                 <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
+                <cellInfo cellId="Constant_roxgcf_a2a">
+                  <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4148436756233675358" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://rcp.build/rcp.build.build/rcp.distro.win">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_vny568_n0">
                   <node node_reference="r:307e553c-5de0-43bd-bb8b-5c3ad31e2cf0(rcp.build.build)/4205637915494128142" />
                 </cellInfo>
               </stackElement>

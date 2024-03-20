@@ -31,7 +31,6 @@
     <module reference="25092e07-e655-497c-92fb-558a8e3080ed(jetbrains.mps.ide.ui)" version="0" />
     <module reference="20351dc3-a2df-46f5-b667-fc9adab1f1c9(jetbrains.mps.make)" version="0" />
     <module reference="a1250a4d-c090-42c3-ad7c-d298a3357dd4(jetbrains.mps.make.runtime)" version="0" />
-    <module reference="bf6914ec-737d-4231-8e8d-94477f17fdcf(org.iets3.core.build)" version="0" />
     <module reference="31dfb853-8304-435d-b27c-e29ef9a627cf(org.iets3.opensource.build)" version="0" />
     <module reference="b47a1c5d-e3de-4d12-8a26-300a9d2c3bf7(rcp.allScript)" version="0" />
   </dependencyVersions>
