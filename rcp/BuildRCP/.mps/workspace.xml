@@ -7,10 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e29ade88-48e4-4d88-8ccb-08b8cdbd6fc3" name="Default" comment="mps build: added buildscripts for mac/win">
-      <change beforePath="$PROJECT_DIR$/solutions/rcp.allScript/rcp.allScript.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.allScript/rcp.allScript.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/migration.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/programmingBasics.msd" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/programmingBasics.msd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +30,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="f4bb05e0-de9c-4df5-bab2-f105ea1f14b6/r:904ce0d3-9266-442f-8978-158b8911d967(TempModulef4bb05e0-de9c-4df5-bab2-f105ea1f14b6/ConsoleModel_4192384253290)">
+            <model ref="0cb41f74-48a8-49d6-a531-7634e8656b78/r:9ae7ec2a-4da0-45c6-9753-ad26a976d6ea(TempModule0cb41f74-48a8-49d6-a531-7634e8656b78/ConsoleModel_5407578114256)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -51,11 +50,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="9aM_CaMJLQ">
-                <node concept="3balQm" id="9aM_CaMJLR" role="aymYE" />
-                <node concept="2Clz$F" id="9aM_CaMJLS" role="aymYO" />
-                <node concept="2_V_lH" id="9aM_CaMJLT" role="1PhJh3">
-                  <ref role="2_V_lI" node="9aM_CaMJLS" resolve="CommandHolder" />
+              <node concept="aymSD" id="73zDpgBxfsZ">
+                <node concept="3balQm" id="73zDpgBxft0" role="aymYE" />
+                <node concept="2Clz$F" id="73zDpgBxft1" role="aymYO" />
+                <node concept="2_V_lH" id="73zDpgBxft2" role="1PhJh3">
+                  <ref role="2_V_lI" node="73zDpgBxft1" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -135,11 +134,6 @@
           <PluginState />
         </value>
       </option>
-      <option name="com.dslfoundry.langvis.plugin.plugin.Plugin_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
       <option name="com.mbddr.core.buildconfig.pluginSolution.plugin.PluginSolution_ProjectPlugin">
         <value>
           <PluginState>
@@ -198,11 +192,6 @@
           <PluginState />
         </value>
       </option>
-      <option name="com.mbeddr.core.base.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
       <option name="com.mbeddr.core.codereview.plugin.Codereview_ProjectPlugin">
         <value>
           <PluginState>
@@ -221,52 +210,12 @@
           <PluginState />
         </value>
       </option>
-      <option name="com.mbeddr.doc.aspect.ui.plugin.Ui_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.doc.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.asynccell.plugin.Asynccell_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
       <option name="com.mbeddr.mpsutil.breadcrumb.runtime.plugin.Runtime_ProjectPlugin">
         <value>
           <PluginState />
         </value>
       </option>
-      <option name="com.mbeddr.mpsutil.ccmenu.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
       <option name="com.mbeddr.mpsutil.codereview.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.contextactions.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.ecore.ui.plugin.Ui_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.editingGuide.execution.plugin.Execution_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.genreview.plugin.Genreview_ProjectPlugin">
         <value>
           <PluginState />
         </value>
@@ -277,51 +226,6 @@
         </value>
       </option>
       <option name="com.mbeddr.mpsutil.httpserver.plugin.Httpserver_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.hyperlink.plugin.Hyperlink_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.intentions.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.jfreechart.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.jung.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.multilingual.concept.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.multilingual.settings.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.plantuml.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.projectview.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.projectview.vcs.plugin.Vcs_ProjectPlugin">
         <value>
           <PluginState />
         </value>
@@ -339,17 +243,7 @@
           </PluginState>
         </value>
       </option>
-      <option name="com.mbeddr.mpsutil.traceExplorer.plugin.TraceExplorer_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
       <option name="com.mbeddr.mpsutil.typesystem.trace.rt.plugin.Rt_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.mpsutil.userstyles.runtime.plugin.Runtime_ProjectPlugin">
         <value>
           <PluginState />
         </value>
@@ -372,74 +266,23 @@
           <PluginState />
         </value>
       </option>
-      <option name="de.itemis.mps.editor.celllayout.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="de.itemis.mps.editor.diagram.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="de.itemis.mps.mouselistener.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="de.itemis.mps.selection.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="de.itemis.mps.tooltips.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="de.q60.mps.explorer.plugin.Explorer_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
       <option name="de.q60.mps.shadowmodels.debugview.plugin.Debugview_ProjectPlugin">
         <value>
           <PluginState />
         </value>
       </option>
-      <option name="de.q60.mps.shadowmodels.modelcheck.runtime.plugin.Runtime_ProjectPlugin">
+      <option name="de.slisson.mps.editor.multiline.runtime.plugin.Runtime_ProjectPlugin">
         <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="de.q60.mps.shadowmodels.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="de.slisson.mps.conditionalEditor.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="jetbrains.mps.baseLanguage.lightweightdsl.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="jetbrains.mps.editor.contextActionsTool.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="jetbrains.mps.execution.configurations.implementation.plugin.plugin.Plugin_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="jetbrains.mps.execution.configurations.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
+          <PluginState>
+            <option name="myComponentsState">
+              <list>
+                <ComponentState>
+                  <option name="first" value="de.slisson.mps.editor.multiline.runtime.plugin.Multiline_PreferencesComponent" />
+                  <params />
+                </ComponentState>
+              </list>
+            </option>
+          </PluginState>
         </value>
       </option>
       <option name="jetbrains.mps.ide.actions.Ide_ProjectPlugin">
@@ -458,46 +301,6 @@
               </list>
             </option>
           </PluginState>
-        </value>
-      </option>
-      <option name="jetbrains.mps.ide.devkit.actions.Mpsdevkit_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="jetbrains.mps.ide.devkit.editor.Editor_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="jetbrains.mps.ide.make.actions.Make_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="jetbrains.mps.lang.editor.tooltips.runtime.plugin.Runtime_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="jetbrains.mps.migration.workbench.plugin.Workbench_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="jetbrains.mps.vcs.mergehints.plugin.plugin.Plugin_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="org.iets3.analysis.base.plugin.Base_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="org.iets3.core.expr.plugin.plugin.Plugin_ProjectPlugin">
-        <value>
-          <PluginState />
         </value>
       </option>
       <option name="org.iets3.core.expr.testExecution.plugin.TestExecution_ProjectPlugin">
@@ -521,6 +324,17 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
+      <pane id="Scope" />
+      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
+      <pane id="FileSystem" />
+      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -550,17 +364,6 @@
             </PATH_ELEMENT>
           </SELECTED>
         </subPane>
-      </pane>
-      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
-        <subPane />
-      </pane>
-      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
-        <subPane />
-      </pane>
-      <pane id="FileSystem" />
-      <pane id="Scope" />
-      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
-        <subPane />
       </pane>
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
         <subPane />
@@ -648,7 +451,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mps build: added buildscripts for mac/win" />
