@@ -18,7 +18,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5474529e-c961-46f1-bc63-0693056b6dfc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="03cb3dc5-f2f3-42d1-b574-77807b8d910a/r:0d93743d-03db-4a8b-99a9-0d91b8200958(TempModule03cb3dc5-f2f3-42d1-b574-77807b8d910a/ConsoleModel_4385619534885)">
+            <model ref="1c15ee84-3527-4e09-9f13-30a78515b3be/r:f90b230e-d04d-431e-9ea3-d4db2f869a38(TempModule1c15ee84-3527-4e09-9f13-30a78515b3be/ConsoleModel_4652402247070)">
               <persistence version="9" />
               <languages>
                 <use id="1a8554c4-eb84-43ba-8c34-6f0d90c6e75a" name="jetbrains.mps.lang.smodel.query" version="3" />
@@ -176,142 +176,142 @@
                   <concept id="4307205004134636962" name="jetbrains.mps.console.base.structure.ProjectScope_old" flags="ng" index="1dZ9A3" />
                 </language>
               </registry>
-              <node concept="aymSD" id="zMaNblyVxB">
-                <node concept="3balQm" id="zMaNblyVxC" role="aymYE">
-                  <node concept="2Clz$F" id="zMaNblyVxD" role="18xWvz">
+              <node concept="aymSD" id="73zDpgBwTDM">
+                <node concept="3balQm" id="73zDpgBwTDN" role="aymYE">
+                  <node concept="2Clz$F" id="73zDpgBwTDO" role="18xWvz">
                     <property role="TrG5h" value="CommandHolder" />
-                    <node concept="f80E0" id="zMaNblyVxE" role="2Clzx4">
-                      <node concept="2OqwBi" id="zMaNblyVxF" role="f80$r">
-                        <node concept="2OqwBi" id="zMaNblyVxG" role="2Oq$k0">
-                          <node concept="qVDSY" id="zMaNblyVxH" role="2Oq$k0">
-                            <node concept="1dO9Bo" id="zMaNblyVxI" role="1dOa5D">
-                              <node concept="1dRE$e" id="zMaNblyVxJ" role="1dp2q7">
-                                <node concept="1dZ9A3" id="zMaNblyVxK" role="1dZqIC" />
+                    <node concept="f80E0" id="73zDpgBwTDP" role="2Clzx4">
+                      <node concept="2OqwBi" id="73zDpgBwTDQ" role="f80$r">
+                        <node concept="2OqwBi" id="73zDpgBwTDR" role="2Oq$k0">
+                          <node concept="qVDSY" id="73zDpgBwTDS" role="2Oq$k0">
+                            <node concept="1dO9Bo" id="73zDpgBwTDT" role="1dOa5D">
+                              <node concept="1dRE$e" id="73zDpgBwTDU" role="1dp2q7">
+                                <node concept="1dZ9A3" id="73zDpgBwTDV" role="1dZqIC" />
                               </node>
                             </node>
-                            <node concept="chp4Y" id="zMaNblyVxL" role="qVDSX">
+                            <node concept="chp4Y" id="73zDpgBwTDW" role="qVDSX">
                               <ref role="cht4Q" to="34lm:1sudaVNqvkx" resolve="ScreenshotPathSpec" />
                             </node>
                           </node>
-                          <node concept="3zZkjj" id="zMaNblyVxM" role="2OqNvi">
-                            <node concept="1bVj0M" id="zMaNblyVxN" role="23t8la">
+                          <node concept="3zZkjj" id="73zDpgBwTDX" role="2OqNvi">
+                            <node concept="1bVj0M" id="73zDpgBwTDY" role="23t8la">
                               <property role="3yWfEV" value="true" />
-                              <node concept="3clFbS" id="zMaNblyVxO" role="1bW5cS">
-                                <node concept="3clFbF" id="zMaNblyVxP" role="3cqZAp">
-                                  <node concept="3clFbT" id="zMaNblyVxQ" role="3clFbG">
+                              <node concept="3clFbS" id="73zDpgBwTDZ" role="1bW5cS">
+                                <node concept="3clFbF" id="73zDpgBwTE0" role="3cqZAp">
+                                  <node concept="3clFbT" id="73zDpgBwTE1" role="3clFbG">
                                     <property role="3clFbU" value="true" />
                                   </node>
                                 </node>
                               </node>
-                              <node concept="Rh6nW" id="zMaNblyVxR" role="1bW2Oz">
+                              <node concept="Rh6nW" id="73zDpgBwTE2" role="1bW2Oz">
                                 <property role="TrG5h" value="node" />
-                                <node concept="2jxLKc" id="zMaNblyVxS" role="1tU5fm" />
+                                <node concept="2jxLKc" id="73zDpgBwTE3" role="1tU5fm" />
                               </node>
                             </node>
                           </node>
                         </node>
-                        <node concept="3R8V_t" id="zMaNblyVxT" role="2OqNvi">
-                          <node concept="1bVj0M" id="zMaNblyVxU" role="23t8la">
+                        <node concept="3R8V_t" id="73zDpgBwTE4" role="2OqNvi">
+                          <node concept="1bVj0M" id="73zDpgBwTE5" role="23t8la">
                             <property role="3yWfEV" value="true" />
-                            <node concept="3clFbS" id="zMaNblyVxV" role="1bW5cS">
-                              <node concept="3cpWs8" id="zMaNblyVxW" role="3cqZAp">
-                                <node concept="3cpWsn" id="zMaNblyVxX" role="3cpWs9">
+                            <node concept="3clFbS" id="73zDpgBwTE6" role="1bW5cS">
+                              <node concept="3cpWs8" id="73zDpgBwTE7" role="3cqZAp">
+                                <node concept="3cpWsn" id="73zDpgBwTE8" role="3cpWs9">
                                   <property role="TrG5h" value="pp" />
-                                  <node concept="3Tqbb2" id="zMaNblyVxY" role="1tU5fm">
+                                  <node concept="3Tqbb2" id="73zDpgBwTE9" role="1tU5fm">
                                     <ref role="ehGHo" to="68mc:2iGZqsHuOWj" resolve="SolutionRelativeDirPicker" />
                                   </node>
-                                  <node concept="2OqwBi" id="zMaNblyVxZ" role="33vP2m">
-                                    <node concept="2OqwBi" id="zMaNblyVy0" role="2Oq$k0">
-                                      <node concept="37vLTw" id="zMaNblyVy1" role="2Oq$k0">
-                                        <ref role="3cqZAo" node="zMaNblyVyg" resolve="node" />
+                                  <node concept="2OqwBi" id="73zDpgBwTEa" role="33vP2m">
+                                    <node concept="2OqwBi" id="73zDpgBwTEb" role="2Oq$k0">
+                                      <node concept="37vLTw" id="73zDpgBwTEc" role="2Oq$k0">
+                                        <ref role="3cqZAo" node="73zDpgBwTEr" resolve="node" />
                                       </node>
-                                      <node concept="3TrEf2" id="zMaNblyVy2" role="2OqNvi">
+                                      <node concept="3TrEf2" id="73zDpgBwTEd" role="2OqNvi">
                                         <ref role="3Tt5mk" to="34lm:1JOtRcapYu0" resolve="path" />
                                       </node>
                                     </node>
-                                    <node concept="zfrQC" id="zMaNblyVy3" role="2OqNvi" />
+                                    <node concept="zfrQC" id="73zDpgBwTEe" role="2OqNvi" />
                                   </node>
                                 </node>
                               </node>
-                              <node concept="3clFbF" id="zMaNblyVy4" role="3cqZAp">
-                                <node concept="37vLTI" id="zMaNblyVy5" role="3clFbG">
-                                  <node concept="Xl_RD" id="zMaNblyVy6" role="37vLTx">
+                              <node concept="3clFbF" id="73zDpgBwTEf" role="3cqZAp">
+                                <node concept="37vLTI" id="73zDpgBwTEg" role="3clFbG">
+                                  <node concept="Xl_RD" id="73zDpgBwTEh" role="37vLTx">
                                     <property role="Xl_RC" value="../../../../doc" />
                                   </node>
-                                  <node concept="2OqwBi" id="zMaNblyVy7" role="37vLTJ">
-                                    <node concept="37vLTw" id="zMaNblyVy8" role="2Oq$k0">
-                                      <ref role="3cqZAo" node="zMaNblyVxX" resolve="pp" />
+                                  <node concept="2OqwBi" id="73zDpgBwTEi" role="37vLTJ">
+                                    <node concept="37vLTw" id="73zDpgBwTEj" role="2Oq$k0">
+                                      <ref role="3cqZAo" node="73zDpgBwTE8" resolve="pp" />
                                     </node>
-                                    <node concept="3TrcHB" id="zMaNblyVy9" role="2OqNvi">
+                                    <node concept="3TrcHB" id="73zDpgBwTEk" role="2OqNvi">
                                       <ref role="3TsBF5" to="68mc:5lKnBeAtODI" resolve="path" />
                                     </node>
                                   </node>
                                 </node>
                               </node>
-                              <node concept="3clFbF" id="zMaNblyVya" role="3cqZAp">
-                                <node concept="37vLTI" id="zMaNblyVyb" role="3clFbG">
-                                  <node concept="10Nm6u" id="zMaNblyVyc" role="37vLTx" />
-                                  <node concept="2OqwBi" id="zMaNblyVyd" role="37vLTJ">
-                                    <node concept="37vLTw" id="zMaNblyVye" role="2Oq$k0">
-                                      <ref role="3cqZAo" node="zMaNblyVyg" resolve="node" />
+                              <node concept="3clFbF" id="73zDpgBwTEl" role="3cqZAp">
+                                <node concept="37vLTI" id="73zDpgBwTEm" role="3clFbG">
+                                  <node concept="10Nm6u" id="73zDpgBwTEn" role="37vLTx" />
+                                  <node concept="2OqwBi" id="73zDpgBwTEo" role="37vLTJ">
+                                    <node concept="37vLTw" id="73zDpgBwTEp" role="2Oq$k0">
+                                      <ref role="3cqZAo" node="73zDpgBwTEr" resolve="node" />
                                     </node>
-                                    <node concept="3TrcHB" id="zMaNblyVyf" role="2OqNvi">
+                                    <node concept="3TrcHB" id="73zDpgBwTEq" role="2OqNvi">
                                       <ref role="3TsBF5" to="34lm:1sudaVNqvlc" resolve="path" />
                                     </node>
                                   </node>
                                 </node>
                               </node>
                             </node>
-                            <node concept="Rh6nW" id="zMaNblyVyg" role="1bW2Oz">
+                            <node concept="Rh6nW" id="73zDpgBwTEr" role="1bW2Oz">
                               <property role="TrG5h" value="node" />
-                              <node concept="2jxLKc" id="zMaNblyVyh" role="1tU5fm" />
+                              <node concept="2jxLKc" id="73zDpgBwTEs" role="1tU5fm" />
                             </node>
                           </node>
                         </node>
                       </node>
                     </node>
                   </node>
-                  <node concept="2Clz$F" id="zMaNblyVyi" role="18xWvz">
+                  <node concept="2Clz$F" id="73zDpgBwTEt" role="18xWvz">
                     <property role="TrG5h" value="CommandHolder" />
-                    <node concept="f80E0" id="zMaNblyVyj" role="2Clzx4">
-                      <node concept="24aHrZ" id="zMaNblyVyk" role="f80$r">
-                        <node concept="2OqwBi" id="zMaNblyVyl" role="iY1wd">
-                          <node concept="qVDSY" id="zMaNblyVym" role="2Oq$k0">
-                            <node concept="chp4Y" id="zMaNblyVyn" role="qVDSX">
+                    <node concept="f80E0" id="73zDpgBwTEu" role="2Clzx4">
+                      <node concept="24aHrZ" id="73zDpgBwTEv" role="f80$r">
+                        <node concept="2OqwBi" id="73zDpgBwTEw" role="iY1wd">
+                          <node concept="qVDSY" id="73zDpgBwTEx" role="2Oq$k0">
+                            <node concept="chp4Y" id="73zDpgBwTEy" role="qVDSX">
                               <ref role="cht4Q" to="34lm:1sudaVNmXYu" resolve="Frame" />
                             </node>
-                            <node concept="1dO9Bo" id="zMaNblyVyo" role="1dOa5D">
-                              <node concept="psT0o" id="zMaNblyVyp" role="1dp2q7">
-                                <node concept="p4YG9" id="zMaNblyVyq" role="psT0v" />
+                            <node concept="1dO9Bo" id="73zDpgBwTEz" role="1dOa5D">
+                              <node concept="psT0o" id="73zDpgBwTE$" role="1dp2q7">
+                                <node concept="p4YG9" id="73zDpgBwTE_" role="psT0v" />
                               </node>
                             </node>
                           </node>
-                          <node concept="3zZkjj" id="zMaNblyVyr" role="2OqNvi">
-                            <node concept="1bVj0M" id="zMaNblyVys" role="23t8la">
+                          <node concept="3zZkjj" id="73zDpgBwTEA" role="2OqNvi">
+                            <node concept="1bVj0M" id="73zDpgBwTEB" role="23t8la">
                               <property role="3yWfEV" value="true" />
-                              <node concept="3clFbS" id="zMaNblyVyt" role="1bW5cS">
-                                <node concept="3clFbF" id="zMaNblyVyu" role="3cqZAp">
-                                  <node concept="2OqwBi" id="zMaNblyVyv" role="3clFbG">
-                                    <node concept="2OqwBi" id="zMaNblyVyw" role="2Oq$k0">
-                                      <node concept="37vLTw" id="zMaNblyVyx" role="2Oq$k0">
-                                        <ref role="3cqZAo" node="zMaNblyVy_" resolve="node" />
+                              <node concept="3clFbS" id="73zDpgBwTEC" role="1bW5cS">
+                                <node concept="3clFbF" id="73zDpgBwTED" role="3cqZAp">
+                                  <node concept="2OqwBi" id="73zDpgBwTEE" role="3clFbG">
+                                    <node concept="2OqwBi" id="73zDpgBwTEF" role="2Oq$k0">
+                                      <node concept="37vLTw" id="73zDpgBwTEG" role="2Oq$k0">
+                                        <ref role="3cqZAo" node="73zDpgBwTEK" resolve="node" />
                                       </node>
-                                      <node concept="3TrcHB" id="zMaNblyVyy" role="2OqNvi">
+                                      <node concept="3TrcHB" id="73zDpgBwTEH" role="2OqNvi">
                                         <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
                                       </node>
                                     </node>
-                                    <node concept="liA8E" id="zMaNblyVyz" role="2OqNvi">
+                                    <node concept="liA8E" id="73zDpgBwTEI" role="2OqNvi">
                                       <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                      <node concept="Xl_RD" id="zMaNblyVy$" role="37wK5m">
+                                      <node concept="Xl_RD" id="73zDpgBwTEJ" role="37wK5m">
                                         <property role="Xl_RC" value="riskFactorForperson" />
                                       </node>
                                     </node>
                                   </node>
                                 </node>
                               </node>
-                              <node concept="Rh6nW" id="zMaNblyVy_" role="1bW2Oz">
+                              <node concept="Rh6nW" id="73zDpgBwTEK" role="1bW2Oz">
                                 <property role="TrG5h" value="node" />
-                                <node concept="2jxLKc" id="zMaNblyVyA" role="1tU5fm" />
+                                <node concept="2jxLKc" id="73zDpgBwTEL" role="1tU5fm" />
                               </node>
                             </node>
                           </node>
@@ -320,9 +320,9 @@
                     </node>
                   </node>
                 </node>
-                <node concept="2Clz$F" id="zMaNblyY$C" role="aymYO" />
-                <node concept="2_V_lH" id="zMaNblyY$D" role="1PhJh3">
-                  <ref role="2_V_lI" node="zMaNblyY$C" resolve="CommandHolder" />
+                <node concept="2Clz$F" id="73zDpgBwWGN" role="aymYO" />
+                <node concept="2_V_lH" id="73zDpgBwWGO" role="1PhJh3">
+                  <ref role="2_V_lI" node="73zDpgBwWGN" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -601,139 +601,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:e00f4849-fe23-45e3-8ca0-de542fab6857(chapter05_structured) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter05_structured.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:16d89834-7a42-43f5-ba48-4acec0e1fb39(chapter04_functions) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter04_functions.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="r:bcea85e8-fe12-403e-9e6f-8cc27ca73729(chapter07_decAndCalc) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter07_decAndCalc.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:30b901aa-108c-498c-8b66-53a1d073f208(chapter01_values) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter01_values.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:a20d865a-17b8-4903-9449-725ecfb7b5f0(programmingBasics.plugin.plugin) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics.plugin/models/plugin.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:480e3b8e-0509-43e8-9493-4fac219a375e(chapter03_types) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter03_types.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:070f5d99-4e80-4529-a7cc-03acd3a7433d(chapter02_testing) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter02_testing.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:78a11fed-32ce-4e6e-924f-b137d7d5481f(chapter06_collections) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter06_collections.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -761,7 +629,107 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="r:16d89834-7a42-43f5-ba48-4acec0e1fb39(chapter04_functions) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter04_functions.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:480e3b8e-0509-43e8-9493-4fac219a375e(chapter03_types) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter03_types.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:78a11fed-32ce-4e6e-924f-b137d7d5481f(chapter06_collections) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter06_collections.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="r:3a1c0b08-ecea-441c-a1ee-79d5b39fbb64(chapter08_instantiation) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter08_instantiation.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:e00f4849-fe23-45e3-8ca0-de542fab6857(chapter05_structured) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter05_structured.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:070f5d99-4e80-4529-a7cc-03acd3a7433d(chapter02_testing) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter02_testing.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -775,7 +743,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <SELECTED>
+          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="programmingBasics" />
               <option name="myItemType" value="" />
@@ -792,9 +760,31 @@
               <option name="myItemId" value="r:a20d865a-17b8-4903-9449-725ecfb7b5f0(programmingBasics.plugin.plugin) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics.plugin/models/plugin.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08522cbc-82c9-40dc-be87-1adbdb9cbb64" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:30b901aa-108c-498c-8b66-53a1d073f208(chapter01_values) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics/models/chapter01_values.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <SELECTED>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
+      <pane id="FileSystem" />
+      <pane id="Scope" />
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
         <subPane />
       </pane>
@@ -818,8 +808,6 @@
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="FileSystem" />
-      <pane id="Scope" />
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
         <subPane />
       </pane>
@@ -972,7 +960,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
