@@ -70,7 +70,7 @@
       <fileset dir="${build.tmp}/default/rcp.build.jar" />
     </jar>
     <copyModels todir="${build.tmp}/customProcessors/copyModels/BuildRCP-solutions-rcp.build-models">
-      <fileset dir="${rcp.home}/BuildRCP/solutions/rcp.build/models" includes="**/*.mps, **/*.metadata, **/*.history, **/*.mpsr, **/.model" />
+      <fileset dir="${rcp.home}/BuildRCP/solutions/rcp.build/models" includes="**/*.mps, **/*.mpsr, **/.model" />
     </copyModels>
     <jar destfile="${build.tmp}/default/rcp.allScripts.zip/rcp.build-src.jar" duplicate="preserve">
       <fileset dir="${rcp.home}/BuildRCP/solutions/rcp.build/source_gen">
@@ -191,13 +191,14 @@
       <library file="${artifacts.mps}/languages/languageDesign/jetbrains.mps.refactoring.participant.jar" />
       <library file="${artifacts.mps}/languages/languageDesign/jetbrains.mps.typesystemEngine.jar" />
       <library file="${artifacts.mps}/languages/make/jetbrains.mps.make.facets.jar" />
+      <library file="${artifacts.mps}/languages/make/jetbrains.mps.make.jar" />
       <library file="${artifacts.mps}/languages/make/jetbrains.mps.make.runtime.jar" />
       <library file="${artifacts.mps}/languages/make/jetbrains.mps.smodel.resources.jar" />
       <library file="${artifacts.mps}/languages/mps-stubs.jar" />
       <library file="${artifacts.mps}/languages/plaf/jetbrains.mps.baseLanguage.search.jar" />
       <library file="${artifacts.mps}/languages/plaf/jetbrains.mps.baseLanguage.util.jar" />
       <library file="${artifacts.mps}/languages/plaf/jetbrains.mps.ide.platform.jar" />
-      <library file="${artifacts.mps}/languages/plaf/jetbrains.mps.ide.ui.jar" />
+      <library file="${artifacts.mps}/languages/plaf/jetbrains.mps.ide.refactoring.platform.jar" />
       <library file="${artifacts.mps}/languages/runtimes/jetbrains.mps.analyzers.runtime.jar" />
       <library file="${artifacts.mps}/languages/runtimes/jetbrains.mps.dataFlow.runtime.jar" />
       <library file="${artifacts.mps}/languages/runtimes/jetbrains.mps.findUsages.runtime.jar" />

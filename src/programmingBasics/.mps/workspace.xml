@@ -18,17 +18,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5474529e-c961-46f1-bc63-0693056b6dfc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/migration.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises02.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises02.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises04.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises04.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises05.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises05.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises06.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises06.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises07.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises07.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises08.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/models/exercises08.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/programmingBasics/programmingBasics.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/programmingBasics/programmingBasics.msd" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +42,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="e8437613-2b39-4df5-8511-260cce231469/r:f61b1db9-9bd0-4faa-bdc9-64cf2e91a959(TempModulee8437613-2b39-4df5-8511-260cce231469/ConsoleModel_2560788062235)">
+            <model ref="61985537-b3d7-4d56-b127-38dc23c08ca0/r:b79f1344-4ccd-4d8b-979d-1db604ed7736(TempModule61985537-b3d7-4d56-b127-38dc23c08ca0/ConsoleModel_2775107604466)">
               <persistence version="9" />
               <languages>
                 <use id="1a8554c4-eb84-43ba-8c34-6f0d90c6e75a" name="jetbrains.mps.lang.smodel.query" version="3" />
@@ -185,142 +179,142 @@
                   <concept id="4307205004134636962" name="jetbrains.mps.console.base.structure.ProjectScope_old" flags="ng" index="1dZ9A3" />
                 </language>
               </registry>
-              <node concept="aymSD" id="7hDW7Aseyul">
-                <node concept="3balQm" id="7hDW7Aseyum" role="aymYE">
-                  <node concept="2Clz$F" id="7hDW7Aseyun" role="18xWvz">
+              <node concept="aymSD" id="31h3mvQlz2W">
+                <node concept="3balQm" id="31h3mvQlz2X" role="aymYE">
+                  <node concept="2Clz$F" id="31h3mvQlz2Y" role="18xWvz">
                     <property role="TrG5h" value="CommandHolder" />
-                    <node concept="f80E0" id="7hDW7Aseyuo" role="2Clzx4">
-                      <node concept="2OqwBi" id="7hDW7Aseyup" role="f80$r">
-                        <node concept="2OqwBi" id="7hDW7Aseyuq" role="2Oq$k0">
-                          <node concept="qVDSY" id="7hDW7Aseyur" role="2Oq$k0">
-                            <node concept="1dO9Bo" id="7hDW7Aseyus" role="1dOa5D">
-                              <node concept="1dRE$e" id="7hDW7Aseyut" role="1dp2q7">
-                                <node concept="1dZ9A3" id="7hDW7Aseyuu" role="1dZqIC" />
+                    <node concept="f80E0" id="31h3mvQlz2Z" role="2Clzx4">
+                      <node concept="2OqwBi" id="31h3mvQlz30" role="f80$r">
+                        <node concept="2OqwBi" id="31h3mvQlz31" role="2Oq$k0">
+                          <node concept="qVDSY" id="31h3mvQlz32" role="2Oq$k0">
+                            <node concept="1dO9Bo" id="31h3mvQlz33" role="1dOa5D">
+                              <node concept="1dRE$e" id="31h3mvQlz34" role="1dp2q7">
+                                <node concept="1dZ9A3" id="31h3mvQlz35" role="1dZqIC" />
                               </node>
                             </node>
-                            <node concept="chp4Y" id="7hDW7Aseyuv" role="qVDSX">
+                            <node concept="chp4Y" id="31h3mvQlz36" role="qVDSX">
                               <ref role="cht4Q" to="34lm:1sudaVNqvkx" resolve="ScreenshotPathSpec" />
                             </node>
                           </node>
-                          <node concept="3zZkjj" id="7hDW7Aseyuw" role="2OqNvi">
-                            <node concept="1bVj0M" id="7hDW7Aseyux" role="23t8la">
+                          <node concept="3zZkjj" id="31h3mvQlz37" role="2OqNvi">
+                            <node concept="1bVj0M" id="31h3mvQlz38" role="23t8la">
                               <property role="3yWfEV" value="true" />
-                              <node concept="3clFbS" id="7hDW7Aseyuy" role="1bW5cS">
-                                <node concept="3clFbF" id="7hDW7Aseyuz" role="3cqZAp">
-                                  <node concept="3clFbT" id="7hDW7Aseyu$" role="3clFbG">
+                              <node concept="3clFbS" id="31h3mvQlz39" role="1bW5cS">
+                                <node concept="3clFbF" id="31h3mvQlz3a" role="3cqZAp">
+                                  <node concept="3clFbT" id="31h3mvQlz3b" role="3clFbG">
                                     <property role="3clFbU" value="true" />
                                   </node>
                                 </node>
                               </node>
-                              <node concept="Rh6nW" id="7hDW7Aseyu_" role="1bW2Oz">
+                              <node concept="Rh6nW" id="31h3mvQlz3c" role="1bW2Oz">
                                 <property role="TrG5h" value="node" />
-                                <node concept="2jxLKc" id="7hDW7AseyuA" role="1tU5fm" />
+                                <node concept="2jxLKc" id="31h3mvQlz3d" role="1tU5fm" />
                               </node>
                             </node>
                           </node>
                         </node>
-                        <node concept="3R8V_t" id="7hDW7AseyuB" role="2OqNvi">
-                          <node concept="1bVj0M" id="7hDW7AseyuC" role="23t8la">
+                        <node concept="3R8V_t" id="31h3mvQlz3e" role="2OqNvi">
+                          <node concept="1bVj0M" id="31h3mvQlz3f" role="23t8la">
                             <property role="3yWfEV" value="true" />
-                            <node concept="3clFbS" id="7hDW7AseyuD" role="1bW5cS">
-                              <node concept="3cpWs8" id="7hDW7AseyuE" role="3cqZAp">
-                                <node concept="3cpWsn" id="7hDW7AseyuF" role="3cpWs9">
+                            <node concept="3clFbS" id="31h3mvQlz3g" role="1bW5cS">
+                              <node concept="3cpWs8" id="31h3mvQlz3h" role="3cqZAp">
+                                <node concept="3cpWsn" id="31h3mvQlz3i" role="3cpWs9">
                                   <property role="TrG5h" value="pp" />
-                                  <node concept="3Tqbb2" id="7hDW7AseyuG" role="1tU5fm">
+                                  <node concept="3Tqbb2" id="31h3mvQlz3j" role="1tU5fm">
                                     <ref role="ehGHo" to="68mc:2iGZqsHuOWj" resolve="SolutionRelativeDirPicker" />
                                   </node>
-                                  <node concept="2OqwBi" id="7hDW7AseyuH" role="33vP2m">
-                                    <node concept="2OqwBi" id="7hDW7AseyuI" role="2Oq$k0">
-                                      <node concept="37vLTw" id="7hDW7AseyuJ" role="2Oq$k0">
-                                        <ref role="3cqZAo" node="7hDW7AseyuY" resolve="node" />
+                                  <node concept="2OqwBi" id="31h3mvQlz3k" role="33vP2m">
+                                    <node concept="2OqwBi" id="31h3mvQlz3l" role="2Oq$k0">
+                                      <node concept="37vLTw" id="31h3mvQlz3m" role="2Oq$k0">
+                                        <ref role="3cqZAo" node="31h3mvQlz3_" resolve="node" />
                                       </node>
-                                      <node concept="3TrEf2" id="7hDW7AseyuK" role="2OqNvi">
-                                        <ref role="3Tt5mk" to="34lm:1JOtRcapYu0" resolve="pp" />
+                                      <node concept="3TrEf2" id="31h3mvQlz3n" role="2OqNvi">
+                                        <ref role="3Tt5mk" to="34lm:1JOtRcapYu0" resolve="path" />
                                       </node>
                                     </node>
-                                    <node concept="zfrQC" id="7hDW7AseyuL" role="2OqNvi" />
+                                    <node concept="zfrQC" id="31h3mvQlz3o" role="2OqNvi" />
                                   </node>
                                 </node>
                               </node>
-                              <node concept="3clFbF" id="7hDW7AseyuM" role="3cqZAp">
-                                <node concept="37vLTI" id="7hDW7AseyuN" role="3clFbG">
-                                  <node concept="Xl_RD" id="7hDW7AseyuO" role="37vLTx">
+                              <node concept="3clFbF" id="31h3mvQlz3p" role="3cqZAp">
+                                <node concept="37vLTI" id="31h3mvQlz3q" role="3clFbG">
+                                  <node concept="Xl_RD" id="31h3mvQlz3r" role="37vLTx">
                                     <property role="Xl_RC" value="../../../../doc" />
                                   </node>
-                                  <node concept="2OqwBi" id="7hDW7AseyuP" role="37vLTJ">
-                                    <node concept="37vLTw" id="7hDW7AseyuQ" role="2Oq$k0">
-                                      <ref role="3cqZAo" node="7hDW7AseyuF" resolve="pp" />
+                                  <node concept="2OqwBi" id="31h3mvQlz3s" role="37vLTJ">
+                                    <node concept="37vLTw" id="31h3mvQlz3t" role="2Oq$k0">
+                                      <ref role="3cqZAo" node="31h3mvQlz3i" resolve="pp" />
                                     </node>
-                                    <node concept="3TrcHB" id="7hDW7AseyuR" role="2OqNvi">
+                                    <node concept="3TrcHB" id="31h3mvQlz3u" role="2OqNvi">
                                       <ref role="3TsBF5" to="68mc:5lKnBeAtODI" resolve="path" />
                                     </node>
                                   </node>
                                 </node>
                               </node>
-                              <node concept="3clFbF" id="7hDW7AseyuS" role="3cqZAp">
-                                <node concept="37vLTI" id="7hDW7AseyuT" role="3clFbG">
-                                  <node concept="10Nm6u" id="7hDW7AseyuU" role="37vLTx" />
-                                  <node concept="2OqwBi" id="7hDW7AseyuV" role="37vLTJ">
-                                    <node concept="37vLTw" id="7hDW7AseyuW" role="2Oq$k0">
-                                      <ref role="3cqZAo" node="7hDW7AseyuY" resolve="node" />
+                              <node concept="3clFbF" id="31h3mvQlz3v" role="3cqZAp">
+                                <node concept="37vLTI" id="31h3mvQlz3w" role="3clFbG">
+                                  <node concept="10Nm6u" id="31h3mvQlz3x" role="37vLTx" />
+                                  <node concept="2OqwBi" id="31h3mvQlz3y" role="37vLTJ">
+                                    <node concept="37vLTw" id="31h3mvQlz3z" role="2Oq$k0">
+                                      <ref role="3cqZAo" node="31h3mvQlz3_" resolve="node" />
                                     </node>
-                                    <node concept="3TrcHB" id="7hDW7AseyuX" role="2OqNvi">
+                                    <node concept="3TrcHB" id="31h3mvQlz3$" role="2OqNvi">
                                       <ref role="3TsBF5" to="34lm:1sudaVNqvlc" resolve="path" />
                                     </node>
                                   </node>
                                 </node>
                               </node>
                             </node>
-                            <node concept="Rh6nW" id="7hDW7AseyuY" role="1bW2Oz">
+                            <node concept="Rh6nW" id="31h3mvQlz3_" role="1bW2Oz">
                               <property role="TrG5h" value="node" />
-                              <node concept="2jxLKc" id="7hDW7AseyuZ" role="1tU5fm" />
+                              <node concept="2jxLKc" id="31h3mvQlz3A" role="1tU5fm" />
                             </node>
                           </node>
                         </node>
                       </node>
                     </node>
                   </node>
-                  <node concept="2Clz$F" id="7hDW7Aseyv0" role="18xWvz">
+                  <node concept="2Clz$F" id="31h3mvQlz3B" role="18xWvz">
                     <property role="TrG5h" value="CommandHolder" />
-                    <node concept="f80E0" id="7hDW7Aseyv1" role="2Clzx4">
-                      <node concept="24aHrZ" id="7hDW7Aseyv2" role="f80$r">
-                        <node concept="2OqwBi" id="7hDW7Aseyv3" role="iY1wd">
-                          <node concept="qVDSY" id="7hDW7Aseyv4" role="2Oq$k0">
-                            <node concept="chp4Y" id="7hDW7Aseyv5" role="qVDSX">
+                    <node concept="f80E0" id="31h3mvQlz3C" role="2Clzx4">
+                      <node concept="24aHrZ" id="31h3mvQlz3D" role="f80$r">
+                        <node concept="2OqwBi" id="31h3mvQlz3E" role="iY1wd">
+                          <node concept="qVDSY" id="31h3mvQlz3F" role="2Oq$k0">
+                            <node concept="chp4Y" id="31h3mvQlz3G" role="qVDSX">
                               <ref role="cht4Q" to="34lm:1sudaVNmXYu" resolve="Frame" />
                             </node>
-                            <node concept="1dO9Bo" id="7hDW7Aseyv6" role="1dOa5D">
-                              <node concept="psT0o" id="7hDW7Aseyv7" role="1dp2q7">
-                                <node concept="p4YG9" id="7hDW7Aseyv8" role="psT0v" />
+                            <node concept="1dO9Bo" id="31h3mvQlz3H" role="1dOa5D">
+                              <node concept="psT0o" id="31h3mvQlz3I" role="1dp2q7">
+                                <node concept="p4YG9" id="31h3mvQlz3J" role="psT0v" />
                               </node>
                             </node>
                           </node>
-                          <node concept="3zZkjj" id="7hDW7Aseyv9" role="2OqNvi">
-                            <node concept="1bVj0M" id="7hDW7Aseyva" role="23t8la">
+                          <node concept="3zZkjj" id="31h3mvQlz3K" role="2OqNvi">
+                            <node concept="1bVj0M" id="31h3mvQlz3L" role="23t8la">
                               <property role="3yWfEV" value="true" />
-                              <node concept="3clFbS" id="7hDW7Aseyvb" role="1bW5cS">
-                                <node concept="3clFbF" id="7hDW7Aseyvc" role="3cqZAp">
-                                  <node concept="2OqwBi" id="7hDW7Aseyvd" role="3clFbG">
-                                    <node concept="2OqwBi" id="7hDW7Aseyve" role="2Oq$k0">
-                                      <node concept="37vLTw" id="7hDW7Aseyvf" role="2Oq$k0">
-                                        <ref role="3cqZAo" node="7hDW7Aseyvj" resolve="node" />
+                              <node concept="3clFbS" id="31h3mvQlz3M" role="1bW5cS">
+                                <node concept="3clFbF" id="31h3mvQlz3N" role="3cqZAp">
+                                  <node concept="2OqwBi" id="31h3mvQlz3O" role="3clFbG">
+                                    <node concept="2OqwBi" id="31h3mvQlz3P" role="2Oq$k0">
+                                      <node concept="37vLTw" id="31h3mvQlz3Q" role="2Oq$k0">
+                                        <ref role="3cqZAo" node="31h3mvQlz3U" resolve="node" />
                                       </node>
-                                      <node concept="3TrcHB" id="7hDW7Aseyvg" role="2OqNvi">
+                                      <node concept="3TrcHB" id="31h3mvQlz3R" role="2OqNvi">
                                         <ref role="3TsBF5" to="tpck:h0TrG11" resolve="name" />
                                       </node>
                                     </node>
-                                    <node concept="liA8E" id="7hDW7Aseyvh" role="2OqNvi">
+                                    <node concept="liA8E" id="31h3mvQlz3S" role="2OqNvi">
                                       <ref role="37wK5l" to="wyt6:~String.equals(java.lang.Object)" resolve="equals" />
-                                      <node concept="Xl_RD" id="7hDW7Aseyvi" role="37wK5m">
+                                      <node concept="Xl_RD" id="31h3mvQlz3T" role="37wK5m">
                                         <property role="Xl_RC" value="riskFactorForperson" />
                                       </node>
                                     </node>
                                   </node>
                                 </node>
                               </node>
-                              <node concept="Rh6nW" id="7hDW7Aseyvj" role="1bW2Oz">
+                              <node concept="Rh6nW" id="31h3mvQlz3U" role="1bW2Oz">
                                 <property role="TrG5h" value="node" />
-                                <node concept="2jxLKc" id="7hDW7Aseyvk" role="1tU5fm" />
+                                <node concept="2jxLKc" id="31h3mvQlz3V" role="1tU5fm" />
                               </node>
                             </node>
                           </node>
@@ -329,9 +323,9 @@
                     </node>
                   </node>
                 </node>
-                <node concept="2Clz$F" id="7hDW7Aseyvl" role="aymYO" />
-                <node concept="2_V_lH" id="7hDW7Aseyvm" role="1PhJh3">
-                  <ref role="2_V_lI" node="7hDW7Aseyvl" resolve="CommandHolder" />
+                <node concept="2Clz$F" id="31h3mvQlAac" role="aymYO" />
+                <node concept="2_V_lH" id="31h3mvQlAad" role="1PhJh3">
+                  <ref role="2_V_lI" node="31h3mvQlAac" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -393,15 +387,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1040" />
-  </component>
   <component name="ProjectId" id="2dxxrVw5zEMrfHv3PduP2ICk8hv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectPluginManager">
     <option name="pluginsState">
+      <option name="com.dslfoundry.langvis.plugin.Langvis_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="com.mbddr.core.buildconfig.pluginSolution.plugin.PluginSolution_ProjectPlugin">
         <value>
           <PluginState>
@@ -524,6 +518,11 @@
         </value>
       </option>
       <option name="com.mbeddr.mpsutil.editingGuide.execution.plugin.Execution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.genreview.plugin.Genreview_ProjectPlugin">
         <value>
           <PluginState />
         </value>
@@ -654,6 +653,11 @@
           <PluginState />
         </value>
       </option>
+      <option name="de.q60.mps.explorer.plugin.Explorer_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="de.q60.mps.shadowmodels.debugview.plugin.Debugview_ProjectPlugin">
         <value>
           <PluginState />
@@ -751,10 +755,35 @@
     <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
+    <navigator proportions="" version="1" />
     <panes>
+      <pane id="FileSystem" />
+      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AddingToLists" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <SELECTED>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AddingToLists" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer#bookmarkNode#AddAndRemove" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </SELECTED>
+        </subPane>
+      </pane>
+      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -776,6 +805,24 @@
               <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="programmingBasics" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:a20d865a-17b8-4903-9449-725ecfb7b5f0(programmingBasics.plugin.plugin) in IdeaFile[path: /home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics.plugin/models/plugin.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -794,24 +841,6 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ebbed198-fa00-41d5-8397-c0e9b947fe1c" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programmingBasics" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:a20d865a-17b8-4903-9449-725ecfb7b5f0(programmingBasics.plugin.plugin) in IdeaFile[file:///home/eugen/repo/github/mps-programmingbasicscourse/src/programmingBasics/solutions/programmingBasics.plugin/models/plugin.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -827,37 +856,10 @@
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="FileSystem" />
+      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
       <pane id="Favorites" />
-      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
-        <subPane />
-      </pane>
-      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AddingToLists" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <SELECTED>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AddingToLists" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer#bookmarkNode#AddAndRemove" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </SELECTED>
-        </subPane>
-      </pane>
-      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
-        <subPane />
-      </pane>
-      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
-        <subPane />
-      </pane>
       <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
         <subPane>
           <PATH>
@@ -883,22 +885,16 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.mbeddr.mpsutil.multilingual.concept.runtime.plugin.MultilingualConceptProjectPlugin_CustomProjectPlugin.showTranslations" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
@@ -934,6 +930,15 @@
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1710963961478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710963961478</updated>
+    </task>
+    <servers />
   </component>
   <component name="UsagesViewTool">
     <version id="1" />
@@ -1015,5 +1020,23 @@
     <MESSAGE value="example solution demo" />
     <MESSAGE value="improved sheet tests" />
     <option name="LAST_COMMIT_MESSAGE" value="improved sheet tests" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2560" y="292" width="874" height="498" key="#jetbrains.mps.ide.migration.MigrationAssistantWizard" timestamp="1710963970097">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2560" y="292" width="874" height="498" key="#jetbrains.mps.ide.migration.MigrationAssistantWizard/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710963970097" />
+    <state x="2594" y="450" width="571" height="182" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog" timestamp="1710963977185">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2594" y="450" width="571" height="182" key="#jetbrains.mps.vcs.mergedriver.MergeDriverOptionDialog/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710963977185" />
+    <state x="2474" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1710963972326">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2474" y="329" key="com.intellij.ide.util.TipDialog/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710963972326" />
+    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1710964019319">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710964019319" />
   </component>
 </project>

@@ -9,20 +9,13 @@
     <list default="true" id="e29ade88-48e4-4d88-8ccb-08b8cdbd6fc3" name="Default" comment="mps build: added buildscripts for mac/win">
       <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/rcp.allScript/rcp.allScript.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.allScript/rcp.allScript.msd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/rcp.build/models/build.mps" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.build/models/build.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solutions/rcp.build/rcp.build.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.build/rcp.build.msd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/migration.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises02.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises02.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises04.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises04.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises05.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises05.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises06.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises06.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises07.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises07.mps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises08.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises08.mps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/programmingBasics.msd" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/programmingBasics.msd" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +35,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="c206c034-47a0-44e3-895c-1c9cb0d2b90e/r:b0e8b299-90f0-456e-947d-18564d0d5123(TempModulec206c034-47a0-44e3-895c-1c9cb0d2b90e/ConsoleModel_2666099930611)">
+            <model ref="5378b7bb-745d-4396-adf3-90e9fd2e4a3e/r:7709ac81-81cf-4d6c-b4d6-54826dd82902(TempModule5378b7bb-745d-4396-adf3-90e9fd2e4a3e/ConsoleModel_2849074113904)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -62,11 +55,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="7hDW7AsfA8p">
-                <node concept="3balQm" id="7hDW7AsfA8q" role="aymYE" />
-                <node concept="2Clz$F" id="7hDW7AsfA8r" role="aymYO" />
-                <node concept="2_V_lH" id="7hDW7AsfA8s" role="1PhJh3">
-                  <ref role="2_V_lI" node="7hDW7AsfA8r" resolve="CommandHolder" />
+              <node concept="aymSD" id="31h3mvQmDL3">
+                <node concept="3balQm" id="31h3mvQmDL4" role="aymYE" />
+                <node concept="2Clz$F" id="31h3mvQmDL5" role="aymYO" />
+                <node concept="2_V_lH" id="31h3mvQmDL6" role="1PhJh3">
+                  <ref role="2_V_lI" node="31h3mvQmDL5" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -133,6 +126,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectPluginManager">
     <option name="pluginsState">
+      <option name="com.dslfoundry.langvis.plugin.Langvis_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="com.mbddr.core.buildconfig.pluginSolution.plugin.PluginSolution_ProjectPlugin">
         <value>
           <PluginState>
@@ -255,6 +253,11 @@
         </value>
       </option>
       <option name="com.mbeddr.mpsutil.editingGuide.execution.plugin.Execution_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
+      <option name="com.mbeddr.mpsutil.genreview.plugin.Genreview_ProjectPlugin">
         <value>
           <PluginState />
         </value>
@@ -385,6 +388,11 @@
           <PluginState />
         </value>
       </option>
+      <option name="de.q60.mps.explorer.plugin.Explorer_ProjectPlugin">
+        <value>
+          <PluginState />
+        </value>
+      </option>
       <option name="de.q60.mps.shadowmodels.debugview.plugin.Debugview_ProjectPlugin">
         <value>
           <PluginState />
@@ -482,12 +490,12 @@
     <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
+    <navigator proportions="" version="1" />
     <panes>
-      <pane id="Favorites" />
       <pane id="FileSystem" />
+      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -518,18 +526,16 @@
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
         <subPane />
       </pane>
       <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
         <subPane />
       </pane>
-      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
-        <subPane />
-      </pane>
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
         <subPane />
       </pane>
+      <pane id="Favorites" />
       <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
         <subPane />
       </pane>
@@ -538,23 +544,17 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.mbeddr.mpsutil.multilingual.concept.runtime.plugin.MultilingualConceptProjectPlugin_CustomProjectPlugin.showTranslations" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
@@ -591,6 +591,15 @@
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1710964037151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710964037151</updated>
+    </task>
+    <servers />
+  </component>
   <component name="UsagesViewTool">
     <version id="1" />
     <tabs />
@@ -615,5 +624,15 @@
     <MESSAGE value="mps build: added buildscripts for mac/win" />
     <MESSAGE value="mps build: standerlized the build directory" />
     <option name="LAST_COMMIT_MESSAGE" value="mps build: standerlized the build directory" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2560" y="272" width="874" height="498" key="#jetbrains.mps.ide.migration.MigrationAssistantWizard" timestamp="1710964041201">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2560" y="272" width="874" height="498" key="#jetbrains.mps.ide.migration.MigrationAssistantWizard/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710964041201" />
+    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1710964055000">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2459" y="45" width="840" height="1034" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1710964055000" />
   </component>
 </project>
