@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e29ade88-48e4-4d88-8ccb-08b8cdbd6fc3" name="Default" comment="mps build: added buildscripts for mac/win">
-      <change beforePath="$PROJECT_DIR$/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/migration.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" afterDir="false" />
     </list>
@@ -30,7 +29,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="0cb41f74-48a8-49d6-a531-7634e8656b78/r:9ae7ec2a-4da0-45c6-9753-ad26a976d6ea(TempModule0cb41f74-48a8-49d6-a531-7634e8656b78/ConsoleModel_5407578114256)">
+            <model ref="9f4ab9d8-4d33-4676-9582-db72ee880f82/r:7a8c1463-891c-40ec-b3cf-820fb04d5946(TempModule9f4ab9d8-4d33-4676-9582-db72ee880f82/ConsoleModel_5732369686277)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -50,11 +49,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="73zDpgBxfsZ">
-                <node concept="3balQm" id="73zDpgBxft0" role="aymYE" />
-                <node concept="2Clz$F" id="73zDpgBxft1" role="aymYO" />
-                <node concept="2_V_lH" id="73zDpgBxft2" role="1PhJh3">
-                  <ref role="2_V_lI" node="73zDpgBxft1" resolve="CommandHolder" />
+              <node concept="aymSD" id="iEzgfVHBCa">
+                <node concept="3balQm" id="iEzgfVHBCb" role="aymYE" />
+                <node concept="2Clz$F" id="iEzgfVHBCc" role="aymYO" />
+                <node concept="2_V_lH" id="iEzgfVHBCd" role="1PhJh3">
+                  <ref role="2_V_lI" node="iEzgfVHBCc" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -324,14 +323,12 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="Scope" />
       <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
         <subPane />
       </pane>
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
         <subPane />
       </pane>
-      <pane id="FileSystem" />
       <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
         <subPane />
       </pane>
@@ -365,15 +362,8 @@
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
-        <subPane />
-      </pane>
-      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
-        <subPane />
-      </pane>
-      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
-        <subPane />
-      </pane>
+      <pane id="FileSystem" />
+      <pane id="Scope" />
       <pane id="Favorites" />
     </panes>
   </component>
@@ -381,14 +371,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.mbeddr.mpsutil.multilingual.concept.runtime.plugin.MultilingualConceptProjectPlugin_CustomProjectPlugin.showTranslations" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
