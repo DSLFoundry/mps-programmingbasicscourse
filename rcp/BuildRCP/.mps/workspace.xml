@@ -7,8 +7,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e29ade88-48e4-4d88-8ccb-08b8cdbd6fc3" name="Default" comment="mps build: added buildscripts for mac/win">
+      <change beforePath="$PROJECT_DIR$/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/migration.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/rcp.allScript/rcp.allScript.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.allScript/rcp.allScript.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/rcp.build/rcp.build.msd" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/rcp.build/rcp.build.msd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../build/rcp.allScripts/build-allScripts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/.mps/migration.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/migration.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics.plugin/programmingBasics.plugin.msd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises02.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises02.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises04.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises04.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises05.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises05.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises06.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises06.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises07.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises07.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises08.mps" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/models/exercises08.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/programmingBasics.msd" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/programmingBasics/solutions/programmingBasics/programmingBasics.msd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +41,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="9f4ab9d8-4d33-4676-9582-db72ee880f82/r:7a8c1463-891c-40ec-b3cf-820fb04d5946(TempModule9f4ab9d8-4d33-4676-9582-db72ee880f82/ConsoleModel_5732369686277)">
+            <model ref="00e22f85-175a-4ecf-afdb-a49d077c6d8e/r:b51dc48f-f6a7-4240-9e67-5ccb270e0167(TempModule00e22f85-175a-4ecf-afdb-a49d077c6d8e/ConsoleModel_5971957847272)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -49,11 +61,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="iEzgfVHBCa">
-                <node concept="3balQm" id="iEzgfVHBCb" role="aymYE" />
-                <node concept="2Clz$F" id="iEzgfVHBCc" role="aymYO" />
-                <node concept="2_V_lH" id="iEzgfVHBCd" role="1PhJh3">
-                  <ref role="2_V_lI" node="iEzgfVHBCc" resolve="CommandHolder" />
+              <node concept="aymSD" id="74F5JxhqJjs">
+                <node concept="3balQm" id="74F5JxhqJjt" role="aymYE" />
+                <node concept="2Clz$F" id="74F5JxhqJju" role="aymYO" />
+                <node concept="2_V_lH" id="74F5JxhqJjv" role="1PhJh3">
+                  <ref role="2_V_lI" node="74F5JxhqJju" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -176,16 +188,6 @@
           </PluginState>
         </value>
       </option>
-      <option name="com.mbeddr.analyses.sat4j.fm.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
-      <option name="com.mbeddr.analyses.spin.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
-        </value>
-      </option>
       <option name="com.mbeddr.core.base.plugin.Base_ProjectPlugin">
         <value>
           <PluginState />
@@ -202,11 +204,6 @@
               </list>
             </option>
           </PluginState>
-        </value>
-      </option>
-      <option name="com.mbeddr.core.runconfiguration.pluginSolution.plugin.PluginSolution_ProjectPlugin">
-        <value>
-          <PluginState />
         </value>
       </option>
       <option name="com.mbeddr.mpsutil.breadcrumb.runtime.plugin.Runtime_ProjectPlugin">
@@ -323,15 +320,6 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
-        <subPane />
-      </pane>
-      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
-        <subPane />
-      </pane>
-      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -362,8 +350,26 @@
           </SELECTED>
         </subPane>
       </pane>
+      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
+        <subPane />
+      </pane>
       <pane id="FileSystem" />
       <pane id="Scope" />
+      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
+        <subPane />
+      </pane>
+      <pane id="CustomProjectView_org.iets3.core.expr.doc.plugin.plugin.BookmarkExplorer">
+        <subPane />
+      </pane>
       <pane id="Favorites" />
     </panes>
   </component>
@@ -371,12 +377,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
